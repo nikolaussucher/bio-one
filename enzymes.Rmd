@@ -1,0 +1,137 @@
+# Enzymes
+
+[Enzymes](https://en.wikipedia.org/wiki/Enzyme) are macromolecular biological catalysts. The molecules upon which enzymes may act are called substrates and the enzyme converts the substrates into different molecules known as products. Almost all metabolic processes in the cell need enzyme catalysis in order to occur at rates fast enough to sustain life. Metabolic pathways depend upon enzymes to catalyze individual steps. Enzymes are known to catalyze more than 5,000 biochemical reaction types. Most enzymes are proteins, although a few are catalytic RNA molecules. The latter are called ribozymes. Enzymes' specificity comes from their unique three-dimensional structures.
+
+Like all catalysts, enzymes increase the reaction rate by lowering its activation energy. Some enzymes can make their conversion of substrate to product occur many millions of times faster. An extreme example is orotidine 5'-phosphate decarboxylase, which allows a reaction that would otherwise take millions of years to occur in milliseconds.  Chemically, enzymes are like any catalyst and are not consumed in chemical reactions, nor do they alter the equilibrium of a reaction. Enzymes differ from most other catalysts by being much more specific. Enzyme activity can be affected by other molecules: inhibitors are molecules that decrease enzyme activity, and activators are molecules that increase activity. Many therapeutic drugs and poisons are enzyme inhibitors. An enzyme's activity decreases markedly outside its optimal temperature and pH.
+
+Some enzymes are used commercially, for example, in the synthesis of antibiotics. Some household products use enzymes to speed up chemical reactions: enzymes in biological washing powders break down protein, starch or fat stains on clothes, and enzymes in meat tenderizer break down proteins into smaller molecules, making the meat easier to chew.
+
+In this laboratory, we will study the effect of temperature, concentration and pH and on the activity of the enzyme catalase. Catalase speeds up the following reaction:
+
+2 H~2~O~2~ -> 2 H~2~O + O~2~
+
+Hydrogen peroxide is toxic cells protect themselves. Cells therefore use catalase to protect themselves. In these experiments, we will use catalase enzyme from potato.
+
+The first experiment will establish that our catalase works (positive control) and that our reagents are not contaminated (negative control).
+
+Hydrogen peroxide will not spontaneously degrade at room temperature in the absence of enzyme. When catalase is added to hydrogen peroxide, the reaction will take place and the oxygen produced will lead to the formation of bubbles in the solution. The height of the bubbles above the solution will be our measure of enzyme activity (Figure \@ref(fig:catalase)).
+
+```{r catalase, fig.cap='Catalase in action. Note the white bubbles above the darker liquid.', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/enzymes/catalase.png")
+```
+
+##  Positive and negative controls (Experiment 1)
+### Experimental procedures
+1.	Obtain and label three tubes.
+2.	Then to **Tube 1**
+    *   Add 1 ml of potato juice (catalase) to tube 1 (use a plastic transfer pipette).
+    * Add 4 ml of hydrogen peroxide to tube 1. Swirl well to mix and wait at least 20 seconds for bubbling to develop.
+    * Use a ruler and measure the height of the bubble column above the liquid (in millimeters; use the centimeter scale of the ruler) and record the result in Table \@ref(tab:control).
+3. Then to **Tube 2**
+    * Add 1 ml of water.
+    * Add 4 ml of hydrogen peroxide. Swirl well to mix and wait at least 20 seconds.
+    * Measure the height of the bubble column (in millimeters) and record the result in Table \@ref(tab:control).
+4. Then to **Tube 3**
+    * Add 1 ml of potato juice (catalase).
+    * Add 4 ml of sucrose solution. Swirl well to mix; wait 20 seconds.
+    * Measure the height of the bubble column and record the result in Table \@ref(tab:control).
+
+Table: (\#tab:control) Positive and negative controls.
+
+Tube # |	Height of bubbles (mm) |
+|:------:|-----------------------|
+1      |
+2      |
+3      |
+
+##  Effect of temperature on enzyme activity (Experiment 2)
+### Experimental procedures
+
+1.	Obtain and label three tubes.
+2.	Add 1 ml of potato juice (catalase) to each tube.
+3.	Place tube 1 in the refrigerator, tube 2 in a 37°C (Celsius) heat block, and tube 3 in a 97°C heat block for 15 minutes.
+4.	Remove the tubes with the potato juice (catalase) from the refrigerator and heat blocks and immediately add 4 ml hydrogen peroxide to each tube.
+5.	Swirl well to mix and wait 20 seconds.
+6.	Measure the height of the bubble column (in millimeters) in each tube and record your observations in Table \@ref(tab:temp).
+
+Table: (\#tab:temp) Effect of temperature on enzyme activity.
+
+Tube # |Height of bubbles (mm)  |
+|:------:|-----------------------|
+1      ||
+2      ||
+3      ||
+
+##  Effect of concentration on enzyme activity (Experiment 3)
+### Experimental procedures
+
+1.	Obtain and label three tubes.
+2.	Then to **Tube 1**
+    * Add 1 ml of water.
+    * Add 4 ml of hydrogen peroxide. Swirl well to mix and wait at least 20 seconds.
+    * Measure the height of the bubble column (in millimeters) and record your observations in Table \@ref(tab:concentration).
+2.	Then to **Tube 2**
+    * Add 1 ml of potato juice (catalase).
+    * Add 4 ml of hydrogen peroxide. Swirl well to mix and wait at least 20 seconds.
+    * Measure the height of the bubble column (in millimeters) and record your observations in Table \@ref(tab:concentration).
+2.	Then to **Tube 3**
+    * Add 3 ml of potato juice (catalase).
+    * Add 4 ml of hydrogen peroxide. Swirl well to mix and wait at least 20 seconds.
+    * Measure the height of the bubble column (in millimeters) and record your observations in Table \@ref(tab:concentration).
+
+Table: (\#tab:concentration) Effect of concentration on enzyme activity.
+
+Tube # |	Height of bubbles (mm) |
+|:------:|-----------------------|
+1      ||
+2      ||
+3      ||
+
+
+##  Effect of pH on enzyme activity (Experiment 4)
+### Experimental procedures
+
+1.	Obtain 6 tubes and label each tube with a number from 1 to 6.
+2.	Place the tubes from left (tube #1) to right (tube #6) in the first row of a test tube rack.
+2.	Add to 1 ml of potato juice (catalase) to each tube.
+2.	Add 2 ml of water to tube 1.
+3.	Add 2 ml of pH buffer 3 to tube 2.
+4.	Add 2 ml of pH buffer 5 to tube 3.
+5.	Add 2 ml of pH buffer 7 to tube 4.
+6.	Add 2 ml of pH buffer 9 to tube 5.
+7.	Add 2 ml of pH buffer 12 to tube 6.
+8.	Add 4 ml of hydrogen peroxide to each of the six tubes.
+9.	Swirl each tube well to mix and wait at least 20 seconds.
+9.	Measure the height of the bubble column (in millimeters) in each tube and record your observations in Table \@ref(tab:pH).
+
+Table: (\#tab:pH) Effect of pH on enzyme activity.
+
+Tube # |	Height of bubbles (mm) |
+|:------:|-----------------------|
+1        |                       |
+2        |                       |
+3        |                       |
+4        |                       |
+5        |                       |
+6        |                       |
+
+## Cleaning up
+1. Empty the contents of the plastic tubes into the labeled waste container (brown bottle) in the chemical fume hood.
+2. Discard the empty tubes and other waste in the regular waste basket.
+3. Rinse the glass rod and glassware with water and detergent.
+4. Return the glass ware to the trays on your bench where you originally found them.
+
+## Review Questions
+1. What is a catalyst?
+1. What are enzymes?
+1. What is the name of the enzyme that we studied in this laboratrory session?
+1. What is an enzyme substrate?
+1. What is the substrate of the enzyme that we used in this laborator seesion?
+1. What are the products of the reachtion that was catalized by the enzyme that we studied in this laboratory seesion?
+1. What is the active site of an enzyme?
+1. What is the purpose of the negative and positive controls?
+1. State the hypothesis that was tested in experiment 2?
+1. State the hypothesis that was tested in experiment 3?
+1. State the hypothesis that was tested in experiment 4?
+1. The enzyme from potato appeared to work better at 4°C than at 37°C. Would you expect the same if we had used the equivalent human enzyme? Justify your answer.
+1. Why did heating the enzyme at high heat (> 65°C) result in loss of activity?

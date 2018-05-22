@@ -1,0 +1,21 @@
+new_session:           yes
+
+rmd_files: [ "index.rmd",
+             "acknowledgements.Rmd",
+             "course_description.rmd",
+             "how_to.Rmd",
+             "safety.Rmd",
+             "microscope.Rmd",
+             "chem_aspects.Rmd",
+             "cell_struc.Rmd",
+             "exchange.Rmd",
+             "enzymes.Rmd",
+             "photosynthesis.Rmd",
+             "mitosis.Rmd",
+             "mendel.Rmd",
+             "molbio.Rmd",
+             "bacteria.Rmd",
+             "protists.Rmd",
+            ]
+
+before_chapter_script: "_common.R"

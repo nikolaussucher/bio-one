@@ -1,0 +1,27 @@
+---
+knit: "bookdown::render_book"
+title: "Laboratory Manual For SCI103
+        Biology I at Roxbury Community College"
+author: ["Nikolaus Sucher"]
+description: "This laboratory manual will accompany you during your laboratory for Biology I."
+#url: "https://myrcc.rcc.mass.edu/ICS/104_lab_manual/index.html"
+#github-repo: nikolaussuchert/bio-one
+twitter-handle: NikolausSucher
+cover-image: cover.png
+site: bookdown::bookdown_site
+documentclass: book
+lof: yes
+lot: yes
+---
+
+# Welcome {-}
+
+This is the __Laboratory Manual__ for the Biology I course (SCI103) at RCC.
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("cover.png")
+```
+
+
+This work is licensed under the [Creative Commons Attribution-Share Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en) United States License.
