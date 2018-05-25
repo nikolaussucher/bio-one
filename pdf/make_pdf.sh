@@ -4,7 +4,6 @@ then
     echo "Please add an input file"
 else {
         texfile=$1
-        counter=1
         if ! [ -f $texfile ]
         then
             echo "File does not exist"
