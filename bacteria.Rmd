@@ -25,7 +25,7 @@ Eukaryotes evolved approximately 1.6-2.1 billion years ago, during the Proterozo
 Gram staining differentiates bacteria by the chemical and physical properties of their cell walls by detecting peptidoglycan, which is present in the cell wall of Gram-positive bacteria. Gram-negative cells also contain peptidoglycan, but a very small layer of it that is dissolved when the alcohol is added. This is why the cell loses its initial color from the primary stain. Gram-positive bacteria retain the crystal violet dye, and thus are stained violet, while the Gram-negative bacteria do not; after washing, a counterstain is added (safranin) that will stain these Gram-negative bacteria a pink color. Both Gram-positive bacteria and Gram-negative bacteria pick up the counterstain. The counterstain, however, is unseen on Gram-positive bacteria because of the darker crystal violet stain.
 
 ```{r gram, fig.cap='Gram stained bacteria.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/bacteria/Gram_stain.png")
+knitr::include_graphics("./figures/bacteria/Gram_stain.jpg")
 ```
 
 ### Experimental procedures
@@ -47,7 +47,7 @@ knitr::include_graphics("./figures/bacteria/Gram_stain.png")
 [*Gloeocapsa*](https://en.wikipedia.org/wiki/Gloeocapsa) (from the Greek gloia (gelatinous) and the Latin capsa (case) is a genus of cyanobacteria (Figure \@ref(fig:gloeocapsa)). The cells secrete individual gelatinous sheaths which can often be seen as sheaths around recently divided cells within outer sheaths. Recently divided cell pairs often appear to be only one cell since the new cells cohere temporarily. They are also known as glow caps, a term derived from the yellowish hue given off by the cap.
 
 ```{r gloeocapsa, fig.cap='Gloeocapsa.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/bacteria/gloeocapsa.png")
+knitr::include_graphics("./figures/bacteria/gloeocapsa.jpg")
 ```
 
 ##  View Prepared Slides
@@ -59,14 +59,14 @@ knitr::include_graphics("./figures/bacteria/gloeocapsa.png")
 [*Spirillum*](https://en.wikipedia.org/wiki/Spirillum) is a genus of Gram-negative bacteria (Figure \@ref(fig:spirilla)). Members of the genus Spirillum are large, elongate, spiral shaped, rigid cells. Some have tufts of amphitrichous flagella at both poles. They are microaerophilic and usually found in stagnant freshwater rich in organic matter.
 
 ```{r spirilla, fig.cap='Spirilla.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/bacteria/spirilla.png")
+knitr::include_graphics("./figures/bacteria/spirilla.jpg")
 ```
 
 ### Treponema
 [*Treponema*](https://en.wikipedia.org/wiki/Treponema) is a genus of spiral-shaped Gram-negative bacteria (Figure \@ref(fig:treponema)). The major treponeme species of human pathogens is Treponema pallidum, whose subspecies are responsible for diseases such as syphilis, bejel, and yaws.
 
 ```{r treponema, fig.cap='Treponema.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/bacteria/treponema.png")
+knitr::include_graphics("./figures/bacteria/treponema.jpg")
 ```
 
 ### Clostridium botulinum
@@ -80,7 +80,7 @@ knitr::include_graphics("./figures/bacteria/treponema.png")
 ### Nostoc (Figure \@ref(fig:nostoc))
 
 ```{r nostoc, fig.cap='Nostoc.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/bacteria/nostoc.png")
+knitr::include_graphics("./figures/bacteria/nostoc.jpg")
 ```
 
 ### Anabaena

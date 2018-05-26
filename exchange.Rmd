@@ -32,7 +32,7 @@ The word diffusion derives from the Latin word, diffundere, which means "to spre
 13.	Start setting up Experiment 3 while you wait.
 
 ```{r dialysis, fig.cap='Result of the dialysis experiment.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/exchange/Dialysis.png")
+knitr::include_graphics("./figures/exchange/Dialysis.jpg")
 ```
 
 ## Osmosis in Animal and Plant Cells
@@ -52,7 +52,7 @@ Essentially, this means that if a cell is put in a solution which has a solute c
 (ref:osmosisb) [Osmosis in red blood cells.](https://commons.wikimedia.org/wiki/File:Osmotic_pressure_on_blood_cells_diagram.svg)
 
 ```{r osmosisb, fig.cap='(ref:osmosisb)', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/exchange/Osmosis_blood.png")
+knitr::include_graphics("./figures/exchange/Osmosis_blood.jpg")
 ```
 
 ### Experimental procedures
@@ -72,7 +72,7 @@ Osmotic pressure is the main cause of support in many plants. The osmotic entry 
 (ref:osmosisp) [Osmosis in plant cells.](https://commons.wikimedia.org/wiki/File:Turgor_pressure_on_plant_cells_diagram.svg)
 
 ```{r osmosisp, fig.cap='(ref:osmosisp)', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/exchange/Osmosis_plant.png")
+knitr::include_graphics("./figures/exchange/Osmosis_plant.jpg")
 ```
 
 ### Experimental procedures

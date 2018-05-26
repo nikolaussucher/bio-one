@@ -19,13 +19,13 @@ The primary properties of visible light are intensity, propagation direction, fr
 (ref:spectrum) [Spectrum of light. V, violet; B, blue; G, green Y, yellow; O, orange; R, red](https://commons.wikimedia.org/wiki/File:Linear_visible_spectrum.svg)
 
 ```{r spectrum, fig.cap='(ref:spectrum)', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/photosynthesis/spectrum.png")
+knitr::include_graphics("./figures/photosynthesis/spectrum.jpg")
 ```
 
 In this experiment (Figure \@ref(fig:photosynthesis)), we will study the effect of light intensity on the photosynthetic activity of *Elodea canadensis*. We will vary the light intensity by changing the distance between the light source and the plant. We will count the emerging oxygen bubbles as an indicator of the photosynthetic activity of the plant.
 
 ```{r photosynthesis, fig.cap='Setup for photosynthesis experiment.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/photosynthesis/photosynthesis.png")
+knitr::include_graphics("./figures/photosynthesis/photosynthesis.jpg")
 ```
 
 ### Experimental procedures
@@ -68,7 +68,7 @@ Color of filter/Bubbles per minute|1  | 2  |   3| 4  | 5 |Average
 In this experiment, we will use a [spectrophotometer](https://en.wikipedia.org/wiki/Spectrophotometry) to measure the absorption of light of different wavelength by colored solutions.
 
 ```{r spectrophotometer, fig.cap='Spectrophotometer and cuvettes with dye solutions.', echo=FALSE, message=FALSE, warning=FALSE}
-	knitr::include_graphics("./figures/photosynthesis/spectrophotometer.png")
+	knitr::include_graphics("./figures/photosynthesis/spectrophotometer.jpg")
 ```
 
 ### Experimental procedures
@@ -83,7 +83,7 @@ In this experiment, we will use a [spectrophotometer](https://en.wikipedia.org/w
 9.  Compare your curves with the color spectrum shown in Figure \@ref(fig:spectrum).
 
 ```{r cuvettes, fig.cap='Cuvettes placed in the spectrophotometer.', echo=FALSE, message=FALSE, warning=FALSE}
-	knitr::include_graphics("./figures/photosynthesis/cuvettes.png")
+	knitr::include_graphics("./figures/photosynthesis/cuvettes.jpg")
 ```
 
 Table: (\#tab:absorption) Determination of the light absorption spectrum of dye solutions.
@@ -116,7 +116,7 @@ In this experiment, we separate a mixture of food dyes (dark greenish liquid. Th
 9.  Observe how the running buffer moves up the paper and separates the dye mixture into three components (red, yellow and blue.
 
 ```{r chromatography, fig.height='3', fig.cap='Result of the Chromatography experiment.', echo=FALSE, message=FALSE, warning=FALSE}
-	knitr::include_graphics("./figures/photosynthesis/chromatography.png")
+	knitr::include_graphics("./figures/photosynthesis/chromatography.jpg")
 ```
 
 ## Review Questions

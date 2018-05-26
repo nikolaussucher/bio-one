@@ -40,7 +40,7 @@ Generally, the monohybrid cross is used to determine the dominance relationship 
 In the first experiment, we will study the result obtained from a monohybrid cross. A strain of corn producing pure purple kernels (RR) is crossed with a strain producing pure yellow kernels (rr). Purple is dominant with the resulting F1 ears all bearing purple kernels. These plants that are heterozygous for a single trait are called monohybrids. When the F1 is self-pollinated, the resulting F2 ears bear both purple and yellow kernels (Figure \@ref(fig:monohybrid)).
 
 ```{r monohybrid, fig.cap='Monohybrid cross', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/mendel/Monohybrid_cross.png")
+knitr::include_graphics("./figures/mendel/Monohybrid_cross.jpg")
 ```
 
 ### Experimental procedures
@@ -77,7 +77,7 @@ For genes on separate chromosomes, each allele pair showed independent segregati
 A pure strain of corn producing purple-starchy kernels (RR SuSu) is crossed with a pure strain producing yellow-sweet (rr susu). The starchy seeds are smooth, the sweet seeds are wrinkled. The resulting F1 ears all bear purple-starchy (smooth) kernels. Plants that are heterozygous for two traits are called dihybrids. When the F1 is self-pollinated, the resulting F2 generation contains various combinations (Figure \@ref(fig:dihybrid)).
 
 ```{r dihybrid, fig.cap='Dihybrid cross', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/mendel/Dihybrid_cross.png")
+knitr::include_graphics("./figures/mendel/Dihybrid_cross.jpg")
 ```
 
 ### Experimental procedures
@@ -104,7 +104,7 @@ A [blood type](https://en.wikipedia.org/wiki/Blood_type) (also called a blood gr
 (ref:type) [Blood type (or blood group) is determined, in part, by the ABO blood group antigens present on red blood cells.](https://commons.wikimedia.org/wiki/File:ABO_blood_type.svg)
 
 ```{r type, fig.cap='(ref:type)', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/mendel/blood_type.png")
+knitr::include_graphics("./figures/mendel/blood_type.jpg")
 ```
 
 ### Experimental procedures
@@ -118,7 +118,7 @@ knitr::include_graphics("./figures/mendel/blood_type.png")
 8.  Thoroughly rinse the blood-typing slide and repeat steps 1 through 7 for synthetic blood samples 2, 3, and 4, recording the results of each test as you go (and rinsing the slide after each sample).
 
 ```{r typing, fig.cap='Blood typing result', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/mendel/blood_typing.png")
+knitr::include_graphics("./figures/mendel/blood_typing.jpg")
 ```
 
 Table: (\#tab:blood) Blood Typing.

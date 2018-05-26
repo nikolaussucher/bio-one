@@ -12,14 +12,14 @@ Lipids are substances of biological origin that are insoluble in water. Lipids c
 
 Proteins are large biomolecules consisting of one or more long chains of amino acids linked by peptide bonds. Proteins perform a vast array of functions within organisms, including catalyzing metabolic reactions, DNA replication, responding to stimuli, and transporting molecules from one location to another. Proteins differ from one another primarily in their sequence of amino acids, which is dictated by the nucleotide sequence of their genes, and which usually results in protein folding into a specific three-dimensional structure that determines its activity.
 ```{r setup, fig.cap='Experimental materials for this lab', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/chem_aspects/Setup.png")
+knitr::include_graphics("./figures/chem_aspects/Setup.jpg")
 ```
 ## Test for Reducing sugars
 A [reducing sugar](https://en.wikipedia.org/wiki/Reducing_sugar) is one that reduces another compound and is itself oxidized; that is, the carbonyl carbon of the sugar is oxidized to a carboxyl group. A reducing sugar has a free aldehyde group or a free ketone group.  All monosaccharides are reducing sugars, along with some disaccharides, oligosaccharides, and polysaccharides. Monosaccharides which contain an aldehyde group are known as aldoses, and those with a ketone group are known as ketoses. The aldehyde can be oxidized via a redox reaction in which another compound is reduced. Thus, a reducing sugar is one that reduces certain chemicals. Sugars with ketone groups in their open chain form are capable of isomerizing via a series of tautomeric shifts to produce an aldehyde group in solution. Therefore, ketone-bearing sugars like fructose are considered reducing sugars but it is the isomer containing an aldehyde group which is reducing since ketones cannot be oxidized without decomposition of the sugar. This type of isomerization is catalyzed by the base present in solutions which test for the presence of aldehydes. Aldoses or aldehyde-bearing sugars are reducing also because during oxidation of aldoses, there are certain oxidizing agents that are reduced. The common dietary monosaccharides galactose, glucose and fructose are all reducing sugars. Many disaccharides, like lactose and maltose, also have a reducing form, as one of the two units may have an open-chain form with an aldehyde group.  However, sucrose is a non-reducing disaccharide since neither of the rings is capable of opening.
 Benedict's reagent (Cu^2+^ in aqueous sodium citrate) is used as a qualitative test to detect the presence of reducing sugars. The reducing sugar reduces the copper(II) ions to copper(I), which then forms a brick red copper(I) oxide precipitate.
 
 ```{r heatblock, fig.cap='Heat block ("dry bath")', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/chem_aspects/Heatblock.png")
+knitr::include_graphics("./figures/chem_aspects/Heatblock.jpg")
 ```
 
 ### Experimental procedures
@@ -49,7 +49,7 @@ Table: (\#tab:sugar) Test for reducing sugars.
 
 
 ```{r exp1, fig.cap='Results from experiment 1. Compare to your results!', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/chem_aspects/Results_exp_1.png")
+knitr::include_graphics("./figures/chem_aspects/Results_exp_1.jpg")
 ```
 
 ## Test for Starch
@@ -87,7 +87,7 @@ Table: (\#tab:starch) Test for starch.
 
 
 ```{r exp2, fig.cap='Results from experiment 2. Compare to your results!', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/chem_aspects/Results_exp_2.png")
+knitr::include_graphics("./figures/chem_aspects/Results_exp_2.jpg")
 ```
 
 ## Test for Proteins
@@ -119,7 +119,7 @@ Table: (\#tab:protein) Test for protein.
 
 
 ```{r exp3, fig.cap='Results from experiment 3. Compare to your results!', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/chem_aspects/Results_exp_3.png")
+knitr::include_graphics("./figures/chem_aspects/Results_exp_3.jpg")
 ```
 
 ## Cleaning up
