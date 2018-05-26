@@ -6,9 +6,9 @@ bookdown::gitbook:
       collapse:           section
       before:             |
         <li><strong><a href="./">RCC Biology I Laboratory Manual</a></strong></li>
-#    edit:
-#      link:               https://github.com/nikolaussucher/bio-two%s
-#      text:               "Edit"
+    edit:
+      link:               https://github.com/nikolaussucher/bio-two%s
+      text:               "Edit"
     sharing:              no
     download:             ["pdf", "epub"]
 
