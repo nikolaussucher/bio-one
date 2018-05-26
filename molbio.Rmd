@@ -16,7 +16,7 @@ Agarose gel electrophoresis separates DNA fragments by molecular weight. DNA fra
 We will use gel electrophoresis to separate the DNA fragments obtained from the restriction digest (Figure \@ref(fig:box)). Before setting up the digest, we will pour agarose gel because it will take about half an hour for the gel to harden.
 
 ```{r box, fig.cap='Agarose gel box with comb in place, ready for gel to be poured.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/molbio/Gel_box.png")
+knitr::include_graphics("./figures/molbio/Gel_box.jpg")
 ```
 
 ### Experimental procedures
@@ -67,7 +67,7 @@ H     |4 µl|5 µl  |	_	  |	_    |1 µl    |
 7.	Turn on the power and run the gel at 120 V for 35 minutes (Figure \@ref(fig:power)).
 
 ```{r power, fig.cap='Gel electrophoresis box and power supply.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/molbio/Power_supply.png")
+knitr::include_graphics("./figures/molbio/Power_supply.jpg")
 ```
 
 ##  Visualizing the DNA fragments from the restriction digest
@@ -78,7 +78,7 @@ We added a non-toxic green fluorescent dye to the agarose before we poured the g
 2.  Print out a picture of the gel.
 
 ```{r doc, fig.cap='Gel documentation system with UV light source.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/molbio/Gel_doc.png")
+knitr::include_graphics("./figures/molbio/Gel_doc.jpg")
 ```
 
 ## Review Questions

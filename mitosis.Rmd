@@ -11,13 +11,13 @@ Because the number of chromosomes is halved during meiosis, gametes can fuse (i.
 1.	View the onion root tip and observe the different stages of mitosis (Figure \@ref(fig:tip)).
 
 ```{r tip, fig.cap='Onion root tip', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/mitosis/Onion_root_tip.png")
+knitr::include_graphics("./figures/mitosis/Onion_root_tip.jpg")
 ```
 
 2.	View the fish blastodisc and observe the different stages of mitosis (Figure \@ref(fig:blastodisc)).
 
 ```{r blastodisc, fig.cap='Fish blastodisc', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/mitosis/Fish_blastodisc.png")
+knitr::include_graphics("./figures/mitosis/Fish_blastodisc.jpg")
 ```
 ## Preparing an Onion root tip squash
 ### Experimental procedures
@@ -33,7 +33,7 @@ knitr::include_graphics("./figures/mitosis/Fish_blastodisc.png")
 9.	Examine the slide for the stages of mitosis as well as interphase and cytokinesis.
 
 ```{r spread, fig.cap='Several different phases of mitosis are visible in this onion root tip spread.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/mitosis/Onion_root_tip_spread.png")
+knitr::include_graphics("./figures/mitosis/Onion_root_tip_spread.jpg")
 ```
 
 ## Review Questions

@@ -3,7 +3,7 @@
 The smallest unit of life is the [cell](https://en.wikipedia.org/wiki/Cell_(biology)). In this lab, we will look at eukaryotic (plant and animal) cells under the microscope.
 
 ```{r materials, fig.cap='Experimemntal materials', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/cell_struc/materials.png")
+knitr::include_graphics("./figures/cell_struc/materials.jpg")
 ```
 
 ## Elodea cells

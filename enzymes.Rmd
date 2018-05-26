@@ -17,7 +17,7 @@ The first experiment will establish that our catalase works (positive control) a
 Hydrogen peroxide will not spontaneously degrade at room temperature in the absence of enzyme. When catalase is added to hydrogen peroxide, the reaction will take place and the oxygen produced will lead to the formation of bubbles in the solution. The height of the bubbles above the solution will be our measure of enzyme activity (Figure \@ref(fig:catalase)).
 
 ```{r catalase, fig.cap='Catalase in action. Note the white bubbles above the darker liquid.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/enzymes/catalase.png")
+knitr::include_graphics("./figures/enzymes/catalase.jpg")
 ```
 
 ##  Positive and negative controls (Experiment 1)

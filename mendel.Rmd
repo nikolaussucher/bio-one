@@ -40,7 +40,7 @@ Generally, the monohybrid cross is used to determine the dominance relationship 
 In the first experiment, we will study the result obtained from a monohybrid cross. A strain of corn producing pure purple kernels (RR) is crossed with a strain producing pure yellow kernels (rr). Purple is dominant with the resulting F1 ears all bearing purple kernels. These plants that are heterozygous for a single trait are called monohybrids. When the F1 is self-pollinated, the resulting F2 ears bear both purple and yellow kernels (Figure \@ref(fig:monohybrid)).
 
 ```{r monohybrid, fig.cap='Monohybrid cross', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/mendel/Monohybrid_cross.png")
+knitr::include_graphics("./figures/mendel/Monohybrid_cross.jpg")
 ```
 
 ### Experimental procedures
@@ -66,7 +66,7 @@ Total   |	        |        |      |
 In the second experiment, we will study the result obtained from a [dihybrid cross](https://en.wikipedia.org/wiki/Dihybrid_cross). A dihybrid cross is a cross between two different lines (varieties, strains) that differ in two observed traits. In the name "Dihybrid cross", the "di" indicates that there are two traits involved (in our example designated R and Su), the "hybrid" means that each trait has two different alleles (in our example R and r, or Su and su), and "cross" means that there are two individuals who are combining or "crossing" their genetic information. In our example, a pure strain of corn producing purple-starchy kernels (RR SuSu) is crossed with a pure strain producing yellow-sweet (rr susu). The starchy seeds are smooth, the sweet seeds are wrinkled. The resulting F1 ears all bear purple-starchy (smooth) kernels. Plants that are heterozygous for two traits are called dihybrids. When the F1 is self-pollinated, the resulting F2 generation contains various combinations (Figure \@ref(fig:dihybrid)).
 
 ```{r dihybrid, fig.cap='Dihybrid cross', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/mendel/Dihybrid_cross.png")
+knitr::include_graphics("./figures/mendel/Dihybrid_cross.jpg")
 ```
 
 The rules of meiosis, as they apply to the dihybrid, are codified in Mendel's first law and Mendel's second law, which are also called the Law of Segregation and the Law of Independent Assortment, respectively (Table \@ref(tab:mendel)). For genes on separate chromosomes, each allele pair showed independent segregation. If the first filial generation (F1 generation) produces four identical offspring, the second filial generation, which occurs by crossing the members of the first filial generation, shows a phenotypic (appearance) ratio of **9:3:3:1**, where:
@@ -118,7 +118,7 @@ A [blood type](https://en.wikipedia.org/wiki/Blood_type) (also called a blood gr
 8. Thoroughly rinse the blood-typing slide and repeat steps 1 through 7 for synthetic blood samples 2, 3, and 4, recording the results of each test as you go (and rinsing the slide after each sample).
 
 ```{r typing, fig.cap='Blood typing result', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/mendel/blood_typing.png")
+knitr::include_graphics("./figures/mendel/blood_typing.jpg")
 ```
 
 Table: (\#tab:blood) Blood Typing.
