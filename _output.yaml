@@ -9,7 +9,7 @@ bookdown::gitbook:
     edit:
       link:               https://github.com/nikolaussucher/bio-one/edit/master/%s
       text:               "Edit"
-    sharing:              yes 
+    sharing:              yes
     download:             ["pdf", "epub"]
 
 #bookdown::html_chapters:
