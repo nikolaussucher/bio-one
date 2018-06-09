@@ -4,8 +4,9 @@
 [Brownian motion](https://en.wikipedia.org/wiki/Brownian_motion) is the random motion of particles suspended in a fluid (a liquid or a gas) resulting from their collision with the fast-moving molecules in the fluid. This motion is named after [Robert Brown](https://en.wikipedia.org/wiki/Robert_Brown_(botanist,_born_1773)) (botanist, born 1773). In 1827, while looking through a microscope at particles trapped in cavities inside pollen grains in water, he noted that the particles moved through the water; but he was not able to determine the mechanisms that caused this motion. Atoms and molecules had long been theorized as the constituents of matter, and Albert Einstein published a paper in 1905 that explained in precise detail how the motion that Brown had observed was a result of the pollen being moved by individual water molecules, making one of his first big contributions to science. This explanation of Brownian motion served as convincing evidence that atoms and molecules exist and was further verified experimentally by Jean Perrin in 1908. Perrin was awarded the Nobel Prize in Physics in 1926 "for his work on the discontinuous structure of matter". The direction of the force of atomic bombardment is constantly changing, and at different times the particle is hit more on one side than another, leading to the seemingly random nature of the motion.
 
 ### Experimental procedures
+
+1.	Put a drop of water on a microscope slide.
 1.	Take a toothpick and pick up a tiny bit of powdered carmine form the carmine container.
-2.	Put a drop of water on a microscope slide.
 3.	Hold the toothpick over the drop of water on the slide and tap it so that small specs of carmine fall into the water on the slide.
 4.	Add a coverslip on top of the drop of water with the carmine on the slide.
 5.	Put the slide under the microscope.
