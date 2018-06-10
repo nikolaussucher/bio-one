@@ -33,6 +33,8 @@ A distinguishing feature of diffusion is that it depends on particle random walk
    
 ## Diffusion Through a Selectively Permeable Membrane
 
+A selectively permeable membrane is a type of biological or synthetic, polymeric membrane that will allow certain molecules or ions to pass through it by diffusion—or in the case of bioloigcal membranes (e.g. the cell membrane) by more specialized processes such as facilitated diffusion and active transport. In this experiment we will use a dialysis or [semipermeable membrane](https://en.wikipedia.org/wiki/Semipermeable_membranea)–a selectively permeable membrane that allows particles below a certain size through but excludes any particles that are larger. 
+
 ### Experimental procedures
 1. Fill a 500-ml beaker with 300 ml of water.
 2. Get a ~ 10 cm long piece of dialysis tubing and submerge it for ~ 10 seconds in the water.
