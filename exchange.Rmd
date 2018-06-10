@@ -2,7 +2,7 @@
 
 ## Diffusion
 
-[Diffusion](https://en.wikipedia.org/wiki/Diffusion) the net movement of molecules or atoms from a region of high concentration (or high chemical potential) to a region of low concentration (or low chemical potential) as a result of random motion of the molecules or atoms. The word diffusion derives from the Latin word, diffundere, which means "to spread way out".
+[Diffusion](https://en.wikipedia.org/wiki/Diffusion) is the net movement of molecules or atoms from a region of high concentration (or high chemical potential) to a region of low concentration (or low chemical potential) as a result of random motion of the molecules or atoms. The word diffusion derives from the Latin word, diffundere, which means "to spread way out".
 
 Diffusion is driven by a gradient in chemical potential of the diffusing species. A gradient is the change in the value of a quantity e.g. concentration, pressure, or temperature with the change in another variable, usually distance. A change in concentration over a distance is called a concentration gradient, a change in pressure over a distance is called a pressure gradient, and a change in temperature over a distance is a called a temperature gradient.
 
@@ -13,7 +13,7 @@ A distinguishing feature of diffusion is that it depends on particle random walk
 ### Experimental procedures
 
 1. The instructor will open a bottle containing a fragrant substance.
-2. Observe how long it takes for you to smell the odor.
+2. Raise your hand when you smell the odor.
 
 ## Diffusion in water
 
@@ -30,23 +30,8 @@ A distinguishing feature of diffusion is that it depends on particle random walk
 2. Place a crystal of Malachite green about centimeters from the potassium permanganate crystal.
 3. Note the rate of diffusion.
 4. Find the molecular weights of each compound from [Wikipedia](https://www.wikipedia.org).
-...
-## Brownian motion
-[Brownian motion](https://en.wikipedia.org/wiki/Brownian_motion) is the random motion of particles suspended in a fluid (a liquid or a gas) resulting from their collision with the fast-moving molecules in the fluid. This motion is named after [Robert Brown](https://en.wikipedia.org/wiki/Robert_Brown_(botanist,_born_1773)) (botanist, born 1773). In 1827, while looking through a microscope at particles trapped in cavities inside pollen grains in water, he noted that the particles moved through the water; but he was not able to determine the mechanisms that caused this motion. Atoms and molecules had long been theorized as the constituents of matter, and Albert Einstein published a paper in 1905 that explained in precise detail how the motion that Brown had observed was a result of the pollen being moved by individual water molecules, making one of his first big contributions to science. This explanation of Brownian motion served as convincing evidence that atoms and molecules exist and was further verified experimentally by Jean Perrin in 1908. Perrin was awarded the Nobel Prize in Physics in 1926 "for his work on the discontinuous structure of matter". The direction of the force of atomic bombardment is constantly changing, and at different times the particle is hit more on one side than another, leading to the seemingly random nature of the motion.
-
-### Experimental procedures
-
-1. Put a drop of water on a microscope slide.
-1. Take a toothpick and pick up a tiny bit of powdered carmine form the carmine container.
-3. Hold the toothpick over the drop of water on the slide and tap it so that small specs of carmine fall into the water on the slide.
-4. Add a coverslip on top of the drop of water with the carmine on the slide.
-5. Put the slide under the microscope.
-6. Observe the quivering motion of the particles under high power. A mass movement of particles in any one direction may result if the micro- scope is not quite level, or you are using only one stage clip, or the coverslip is caught under the stage clips. This is not what you are looking for.
-
+   
 ## Diffusion Through a Selectively Permeable Membrane
-[Diffusion](https://en.wikipedia.org/wiki/Diffusion) is the net movement of molecules or atoms from a region of high concentration to a region of low concentration. This is also referred to as the movement of a substance down a concentration gradient. A gradient is the change in the value of a quantity e.g. concentration, pressure, or temperature with the change in another variable, usually distance. A change in concentration over a distance is called a concentration gradient. Concentration is the abundance of a constituent divided by the total volume of a mixture.
-
-The word diffusion derives from the Latin word, diffundere, which means "to spread out". A substance that "spreads out" is moving from an area of high concentration to an area of low concentration. A distinguishing feature of diffusion is that it depends on particle random walk, and results in mixing or mass transport without requiring directed bulk motion.
 
 ### Experimental procedures
 1. Fill a 500-ml beaker with 300 ml of water.
@@ -66,6 +51,18 @@ The word diffusion derives from the Latin word, diffundere, which means "to spre
 ```{r dialysis, fig.cap='Result of the dialysis experiment.', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/exchange/Dialysis.jpg")
 ```
+
+## Brownian motion
+[Brownian motion](https://en.wikipedia.org/wiki/Brownian_motion) is the random motion of particles suspended in a fluid (a liquid or a gas) resulting from their collision with the fast-moving molecules in the fluid. This motion is named after [Robert Brown](https://en.wikipedia.org/wiki/Robert_Brown_(botanist,_born_1773)) (botanist, born 1773). In 1827, while looking through a microscope at particles trapped in cavities inside pollen grains in water, he noted that the particles moved through the water; but he was not able to determine the mechanisms that caused this motion. Atoms and molecules had long been theorized as the constituents of matter, and Albert Einstein published a paper in 1905 that explained in precise detail how the motion that Brown had observed was a result of the pollen being moved by individual water molecules, making one of his first big contributions to science. This explanation of Brownian motion served as convincing evidence that atoms and molecules exist and was further verified experimentally by Jean Perrin in 1908. Perrin was awarded the Nobel Prize in Physics in 1926 "for his work on the discontinuous structure of matter". The direction of the force of atomic bombardment is constantly changing, and at different times the particle is hit more on one side than another, leading to the seemingly random nature of the motion.
+
+### Experimental procedures
+
+1. Put a drop of water on a microscope slide.
+1. Take a toothpick and pick up a tiny bit of powdered carmine form the carmine container.
+3. Hold the toothpick over the drop of water on the slide and tap it so that small specs of carmine fall into the water on the slide.
+4. Add a coverslip on top of the drop of water with the carmine on the slide.
+5. Put the slide under the microscope.
+6. Observe the quivering motion of the particles under high power. A mass movement of particles in any one direction may result if the micro- scope is not quite level, or you are using only one stage clip, or the coverslip is caught under the stage clips. This is not what you are looking for.
 
 ## Osmosis in Animal and Plant Cells
 [Osmosis](https://en.wikipedia.org/wiki/Osmosis) is the spontaneous net movement of solvent molecules through a selectively-permeable membrane into a region of higher solute concentration, in the direction that tends to equalize the solute concentrations on the two sides. A selectively permeable membrane is a membrane that is permeable for some but not other molecules. Osmotic pressure is defined as the external pressure required to be applied so that there is no net movement of solvent across the membrane. Osmotic pressure is a colligative property, meaning that the osmotic pressure depends on the molar concentration of the solute but not on its identity.
