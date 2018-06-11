@@ -1,8 +1,7 @@
 _bookdown_files
 _book
 *.swp
-*.un~
-*.txt~
+*.*~
 .*~
 *.aux
 *.pdf
