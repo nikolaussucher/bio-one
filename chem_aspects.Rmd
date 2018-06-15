@@ -61,7 +61,7 @@ An [amylase](https://en.wikipedia.org/wiki/Amylase) is an enzyme that catalyzes 
 1.	Obtain 9 plastic test tubes and a test tube rack.
 2.	Using a wax pencil,label each tube with a number (1 to 9).
 3.	Place the tubes from left (tube #1) to right (tube #9) in the first row of a test tube rack.
-4.	Add the test material to tubes 1 to 9 as indicated in the table below. Leave tube 9 empty.
+4.	Add the test material to tubes 1 to 8 as indicated in the table below. Leave tube 9 empty.
 5.	Check the that the temperature of the heat block is ~37°C and then place tube #8 in the heat block. Set a timer and incubate the tubes for 15 minutes.
 6.	Add 5 drops of Iodine solution to the test tubes #1 to # 7. Mix well.
 7.	Record the color (in your own words) in in Table \@ref(tab:starch).
