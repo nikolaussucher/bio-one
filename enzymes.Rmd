@@ -22,7 +22,7 @@ knitr::include_graphics("./figures/enzymes/catalase.jpg")
 
 ##  Positive and negative controls (Experiment 1)
 ### Experimental procedures
-1.	Obtain and label three tubes.
+1.	Obtain and label three 15 ml conical plastic reaction tubes.
 2.	Then to **Tube 1**
     *   Add 1 ml of potato juice (catalase) to tube 1 (use a plastic transfer pipette).
     * Add 4 ml of hydrogen peroxide to tube 1. Swirl well to mix and wait at least 20 seconds for bubbling to develop.
