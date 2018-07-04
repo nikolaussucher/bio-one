@@ -15,13 +15,14 @@ bookdown::gitbook:
 #bookdown::html_chapters:
 #  css:                    [css/style.css, css/toc.css]
 
-# bookdown::pdf_book:
-#   includes:
-#     in_header:            latex/preamble.tex
-#   keep_tex:               yes
-#   dev:                    "cairo_pdf"
-#   latex_engine:           xelatex
-#   template: template.tex
+bookdown::pdf_book:
+  includes:
+    in_header:            latex/preamble.tex
+  keep_tex:               yes
+  dev:                    "cairo_pdf"
+  latex_engine:           xelatex
+  #  template: template.tex
+
 bookdown::epub_book:
   dev:                    svglite
   stylesheet:             css/style.css
