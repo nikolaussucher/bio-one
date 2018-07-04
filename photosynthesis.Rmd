@@ -70,7 +70,7 @@ Color of filter/Bubbles per minute|1  | 2  |   3| 4  | 5 |Average
 
 ## Determination of the light absorption spectrum of dye solutions
 
-In this experiment, we will use a [spectrophotometer](https://en.wikipedia.org/wiki/Spectrophotometry) to measure the absorption of light of different wavelength by colored solutions.
+In this experiment, we will use a [spectrophotometer](https://en.wikipedia.org/wiki/Spectrophotometry) to measure the differential absorption of light of different wavelength by water stained with food dyes.
 
 ```{r spectrophotometer, fig.cap='Spectrophotometer and cuvettes with dye solutions.', echo=FALSE, message=FALSE, warning=FALSE}
 	knitr::include_graphics("./figures/photosynthesis/spectrophotometer.jpg")
@@ -82,7 +82,7 @@ In this experiment, we will use a [spectrophotometer](https://en.wikipedia.org/w
 3.  Fill each of the remaining five cuvettes with one of the color solutions listed in Table \@ref(tab:absorption).
 4.  Insert the cuvette with water into the slot marked "B".
 5.  Insert the other cuvettes into the slots marked 1 to 5 and write down which color is in which slot.
-6.  Follow the instructions posted on the spectrophotometer.
+6.  Following the instructions posted on the spectrophotometer, program the machine to take absorption measurements at wavelengths between 380-740 nm in 20 nm steps.
 7.  Once the measurements are completed, write down the absorption number for each dye and wavelength.
 8.  Use a spreadsheet program to graph your results.
 9.  Compare your curves with the data shown in Figure \@ref(fig:absorption).
@@ -98,24 +98,9 @@ Table: (\#tab:absorption) Determination of the light absorption spectrum of dye 
 | 380          |      |     |     |      |    |
 | 400          |      |     |     |      |    |
 | 420          |      |     |     |      |    |
-| 440          |      |     |     |      |    |
-| 460          |      |     |     |      |    |
-| 480          |      |     |     |      |    |
-| 500          |      |     |     |      |    |
-| 520          |      |     |     |      |    |
-| 540          |      |     |     |      |    |
-| 560          |      |     |     |      |    |
-| 580          |      |     |     |      |    |
-| 600          |      |     |     |      |    |
-| 620          |      |     |     |      |    |
-| 640          |      |     |     |      |    |
-| 660          |      |     |     |      |    |
-| 680          |      |     |     |      |    |
-| 700          |      |     |     |      |    |
+| ...          |      |     |     |      |    |
 | 720          |      |     |     |      |    |
 | 740          |      |     |     |      |    |
-| 760          |      |     |     |      |    |
-
 
 ```{r apsorption, fig.cap='Normalized absorption of red, green and blue dye solutions. Compare these data with your own results.', echo=FALSE, message=FALSE, warning=FALSE}
 	knitr::include_graphics("./figures/photosynthesis/absorption_result.jpg")
