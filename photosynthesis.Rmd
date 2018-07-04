@@ -32,7 +32,7 @@ knitr::include_graphics("./figures/photosynthesis/photosynthesis.jpg")
 1.  Select a fresh, crisp sprig of Elodea about 15 cm in length.
 2.  While the plant is still submerged, cut 2-3 mm from its base.
 3.  Place the sprig upside down in a test tube filled with 0.25% sodium bicarbonate. This is a buffer to absorb toxic materials evolved (i.e., that are released. Keeping the plant submerged, position a light source 1 foot away and adjust so the light shines directly on the plant.
-4.  Place a beaker of water between the plant and the light to prevent overheating the plant. Allow the system to stand 7-10 minutes, or until bubbles begin to appear regularly.
+4.  Place the test tube in a beaker of water as shown in Fig. \@ref(fig:photosynthesis) to prevent overheating the plant. Allow the system to stand 7-10 minutes, or until bubbles begin to appear regularly.
 5.  Count the bubbles produced each minute for a 5-minute period and average them. Record your findings in the table.
 6.  Move the light back 2 feet from the plant, wait 5 minutes, and repeat counting. Record your findings in Table \@ref(tab:intensity).
 7.  Move the light back to 3 feet from the plant and repeat counting the bubbles.
@@ -44,6 +44,11 @@ Distance of light source/Bubbles per minute|1  | 2  |   3| 4  | 5  |Average
 1 foot                   |   |    |    |    |    |       |
 2 feet                   |   |    |    |    |    |       |
 3 feet                   |   |    |    |    |    |       |
+
+```{r bubbles, fig.cap='Appearance of bubbles indicates active photosynthesis.', echo=FALSE, message=FALSE, warning=FALSE}
+	knitr::include_graphics("./figures/photosynthesis/photosynthesis_bubbles.jpg")
+```
+
 
 ## Color of light
 In this experiment, we will study the effect of the color of light on the photosynthetic activity of *Elodea canadensis*. We will use filter to expose the plant to light of only a limited range of wavelengths. We will again count the emerging oxygen bubbles as an indicator of the photosynthetic activity of the plant.
@@ -80,7 +85,7 @@ In this experiment, we will use a [spectrophotometer](https://en.wikipedia.org/w
 6.  Follow the instructions posted on the spectrophotometer.
 7.  Once the measurements are completed, write down the absorption number for each dye and wavelength.
 8.  Use a spreadsheet program to graph your results.
-9.  Compare your curves with the color spectrum shown in Figure \@ref(fig:spectrum).
+9.  Compare your curves with the data shown in Figure \@ref(fig:absorption).
 
 ```{r cuvettes, fig.cap='Cuvettes placed in the spectrophotometer.', echo=FALSE, message=FALSE, warning=FALSE}
 	knitr::include_graphics("./figures/photosynthesis/cuvettes.jpg")
@@ -91,12 +96,30 @@ Table: (\#tab:absorption) Determination of the light absorption spectrum of dye 
 |Wavelength (nm)|Purple|Blue |Green|Yellow|Red|
 |:------------:|:-----|:----|:----|:-----|:---|
 | 380          |      |     |     |      |    |
+| 400          |      |     |     |      |    |
 | 420          |      |     |     |      |    |
 | 440          |      |     |     |      |    |
-| ...          |      |     |     |      |    |
+| 460          |      |     |     |      |    |
+| 480          |      |     |     |      |    |
+| 500          |      |     |     |      |    |
+| 520          |      |     |     |      |    |
+| 540          |      |     |     |      |    |
+| 560          |      |     |     |      |    |
+| 580          |      |     |     |      |    |
+| 600          |      |     |     |      |    |
+| 620          |      |     |     |      |    |
+| 640          |      |     |     |      |    |
+| 660          |      |     |     |      |    |
+| 680          |      |     |     |      |    |
+| 700          |      |     |     |      |    |
+| 720          |      |     |     |      |    |
 | 740          |      |     |     |      |    |
 | 760          |      |     |     |      |    |
-| 780          |      |     |     |      |    |
+
+
+```{r apsorption, fig.cap='Normalized absorption of red, green and blue dye solutions. Compare these data with your own results.', echo=FALSE, message=FALSE, warning=FALSE}
+	knitr::include_graphics("./figures/photosynthesis/absorption_result.jpg")
+```
 
 ## Chromatography
 [Chromatography](https://en.wikipedia.org/wiki/Chromatography) is a laboratory technique for the separation of a mixture. The mixture is dissolved in a fluid called the mobile phase, which carries it through a structure holding another material called the stationary phase. The various constituents of the mixture travel at different speeds, causing them to separate. The separation is based on differential partitioning between the mobile and stationary phases. Subtle differences in a compound's partition coefficient result in differential retention on the stationary phase and thus affect the separation.
