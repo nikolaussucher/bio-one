@@ -1,10 +1,11 @@
 _bookdown_files
 _book
+pdf
+bio_i_cover.pdf
 *.swp
 *.*~
 .*~
 *.aux
-*.pdf
 *.idx
 *.out
 *.log
