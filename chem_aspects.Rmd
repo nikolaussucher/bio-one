@@ -23,8 +23,8 @@ knitr::include_graphics("./figures/chem_aspects/Heatblock.jpg")
 ```
 
 ### Experimental procedures
-1.	Turn on the 65°C heat block (Figure \@ref(fig:heatblock)) by pushing the little black switch on the lower right side of the to "high". Rotate the white "high temperature adjust" button to number 3.
-2.	Turn on the 37°C heat block by pushing the little black switch on the lower right side of the to "low". Rotate the white "low temperature adjust" button to number 4.
+1.	Turn on the 65 °C heat block (Figure \@ref(fig:heatblock)) by pushing the little black switch on the lower right side of the to "high". Rotate the white "high temperature adjust" button to number 3.
+2.	Turn on the 37 °C heat block by pushing the little black switch on the lower right side of the to "low". Rotate the white "low temperature adjust" button to number 4.
 1.	Obtain 7 plastic test tubes and a test tube rack.
 2.	Using a wax pencil,label each tube with a number (1 to 7).
 3.	Place the tubes from left (tube #1) to right (tube #7) in the first row of a test tube rack.
@@ -32,7 +32,7 @@ knitr::include_graphics("./figures/chem_aspects/Heatblock.jpg")
 5.	Add 2 ml of Benedict's reagent to each tube using a plastic transfer pipette.
 Figure 5 Plastic transfer pipette (3 ml capacity.
 6.	Mix well.
-7.	Check the that the temperature of the heat block is ~65°C and then place the tubes in the heat block. Set a timer and incubate the tubes for 15 minutes. Begin setting up Experiment 2 (below) while the tubes are incubating.
+7.	Check the that the temperature of the heat block is ~65 °C and then place the tubes in the heat block. Set a timer and incubate the tubes for 15 minutes. Begin setting up Experiment 2 (below) while the tubes are incubating.
 8.	After 15 minutes, remove the tubes using a test tube holder (be careful, they are hot!), place them in the tube rack and record the color (in your own words) in Table \@ref(tab:sugar).
 
 Table: (\#tab:sugar) Test for reducing sugars.
@@ -62,13 +62,13 @@ An [amylase](https://en.wikipedia.org/wiki/Amylase) is an enzyme that catalyzes 
 2.	Using a wax pencil,label each tube with a number (1 to 9).
 3.	Place the tubes from left (tube #1) to right (tube #9) in the first row of a test tube rack.
 4.	Add the test material to tubes 1 to 8 as indicated in the table below. Leave tube 9 empty.
-5.	Check the that the temperature of the heat block is ~37°C and then place tube #8 in the heat block. Set a timer and incubate the tubes for 15 minutes.
+5.	Check the that the temperature of the heat block is ~37 °C and then place tube #8 in the heat block. Set a timer and incubate the tubes for 15 minutes.
 6.	Add 5 drops of Iodine solution to the test tubes #1 to # 7. Mix well.
 7.	Record the color (in your own words) in in Table \@ref(tab:starch).
 8.	After 15 minutes, remove test tube 8 from the heat block and transfer 2 ml (half of the contents of test tube 8) to tube 9.
 9.	Add 5 drops of iodine to tube 8 and record your observation in Table \@ref(tab:starch).
 10.	Add 2 ml of Benedict's solution to tube #9.
-11.	Place tube 9 in the ~65°C heat block. Set a timer and incubate the tube for 15 minutes.
+11.	Place tube 9 in the ~65 °C heat block. Set a timer and incubate the tube for 15 minutes.
 12.	After 15 minutes, remove tube 9 using a test tube holder (be careful, it is hot!), place it in the tube rack and record the color (in your own words) in the table.
 
 Table: (\#tab:starch) Test for starch.
@@ -172,7 +172,7 @@ It is important to mention that the procedure for DNA extraction we are using is
 3.	Filter the homogenate using cheesecloth. Hold the cheesecloth over the beaker with the help of a rubber band.  This step removes cell organelles, broken cell walls, membrane fragments, and other cell debris.
 4.	Collect the filtrate; squeeze the cheesecloth to get the as much of the lysate as possible.
 5.	Pour the filtrate into a plastic tube. Fill the tube to about half the volume
-6.	Use the transfer pipet to drip alcohol slowly down the sides of the tube (about 5 ml of ice cold alcohol), while holding the tube at approximately an angle of 45°.  Try to make a clear and undisturbed layer of alcohol to float on the lysate.  The line between the two layers is called the interface.
+6.	Use the transfer pipet to drip alcohol slowly down the sides of the tube (about 5 ml of ice cold alcohol), while holding the tube at approximately an angle of 45 °.  Try to make a clear and undisturbed layer of alcohol to float on the lysate.  The line between the two layers is called the interface.
 7.	At the interface, you will see the DNA precipitate out of solution and float to the top. Spool the DNA on your glass rod.
 
 ## Cleaning up
