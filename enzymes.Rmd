@@ -49,7 +49,7 @@ Tube # |	Height of bubbles (mm) |
 
 1.	Obtain and label three tubes.
 2.	Add 1 ml of potato juice (catalase) to each tube.
-3.	Place tube 1 in the refrigerator, tube 2 in a 37°C (Celsius) heat block, and tube 3 in a 97°C heat block for 15 minutes.
+3.	Place tube 1 in the refrigerator, tube 2 in a 37 °C (Celsius) heat block, and tube 3 in a 97 °C heat block for 15 minutes.
 4.	Remove the tubes with the potato juice (catalase) from the refrigerator and heat blocks and immediately add 4 ml hydrogen peroxide to each tube.
 5.	Swirl well to mix and wait 20 seconds.
 6.	Measure the height of the bubble column (in millimeters) in each tube and record your observations in Table \@ref(tab:temp).
@@ -133,5 +133,5 @@ Tube # |	Height of bubbles (mm) |
 1. State the hypothesis that was tested in experiment 2?
 1. State the hypothesis that was tested in experiment 3?
 1. State the hypothesis that was tested in experiment 4?
-1. The enzyme from potato appeared to work better at 4°C than at 37°C. Would you expect the same if we had used the equivalent human enzyme? Justify your answer.
-1. Why did heating the enzyme at high heat (> 65°C) result in loss of activity?
+1. The enzyme from potato appeared to work better at 4 °C than at 37 °C. Would you expect the same if we had used the equivalent human enzyme? Justify your answer.
+1. Why did heating the enzyme at high heat (> 65 °C) result in loss of activity?
