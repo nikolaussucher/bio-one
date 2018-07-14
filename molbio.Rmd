@@ -40,7 +40,7 @@ In this experiment, we will use three [restriction enzymes](https://en.wikipedia
     *   Tube4: H = Hind III digest
 1.	Use a new pipette tip for each transfer and pipet the reagents (from the stock solutions kept on ice) into each tube according to Table \@ref(tab:digest).
 1.	Mix the components by gently flicking the tube with your finger. Pulse spin the tubes in the microcentrifuge to collect all the liquid to the bottom of the tube.
-1.	Place the tubes in the heat block and incubate for 30 minutes at 37°C.
+1.	Place the tubes in the heat block and incubate for 30 minutes at 37 °C.
 
 Table: (\#tab:digest) DNA digestion.
 
