@@ -1,5 +1,4 @@
 new_session:           yes
-
 rmd_files: [ "index.rmd",
              "acknowledgements.Rmd",
              "course_description.rmd",
