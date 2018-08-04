@@ -22,11 +22,11 @@ Eukaryotes evolved approximately 1.6-2.1 billion years ago, during the Proterozo
 ##  Gram stain
 [Gram stain](https://en.wikipedia.org/wiki/Gram_stain) or Gram staining (Figure \@ref(fig:gram)), also called Gram's method, is a method of staining used to distinguish and classify bacterial species into two large groups (gram-positive and gram-negative). The name comes from the Danish bacteriologist Hans Christian Gram, who developed the technique.
 
-Gram staining differentiates bacteria by the chemical and physical properties of their cell walls by detecting peptidoglycan, which is present in the cell wall of Gram-positive bacteria. Gram-negative cells also contain peptidoglycan, but a very small layer of it that is dissolved when the alcohol is added. This is why the cell loses its initial color from the primary stain. Gram-positive bacteria retain the crystal violet dye, and thus are stained violet, while the Gram-negative bacteria do not; after washing, a counterstain is added (safranin) that will stain these Gram-negative bacteria a pink color. Both Gram-positive bacteria and Gram-negative bacteria pick up the counterstain. The counterstain, however, is unseen on Gram-positive bacteria because of the darker crystal violet stain.
-
 ```{r gram, fig.cap='Gram stained bacteria.', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/bacteria/Gram_stain.jpg")
 ```
+
+Gram staining differentiates bacteria by the chemical and physical properties of their cell walls by detecting peptidoglycan, which is present in the cell wall of Gram-positive bacteria. Gram-negative cells also contain peptidoglycan, but a very small layer of it that is dissolved when the alcohol is added. This is why the cell loses its initial color from the primary stain. Gram-positive bacteria retain the crystal violet dye, and thus are stained violet, while the Gram-negative bacteria do not; after washing, a counterstain is added (safranin) that will stain these Gram-negative bacteria a pink color. Both Gram-positive bacteria and Gram-negative bacteria pick up the counterstain. The counterstain, however, is unseen on Gram-positive bacteria because of the darker crystal violet stain.
 
 ### Experimental procedures
 1.	Use a bacterial loop to pick up bacteria (Staphylococcus aureus and Escherichia coli) from the culture plate and streak out on a slide so that both samples partially overlap in the middle of the slide. Heat fix the sample to the slide by carefully passing the slide three times through a Bunsen burner flame.
@@ -37,11 +37,19 @@ knitr::include_graphics("./figures/bacteria/Gram_stain.jpg")
 6.	View under the microscope.
 
 ##  View living organisms
-### Oscillatoria
-[*Oscillatoria*](https://en.wikipedia.org/wiki/Oscillatoria) is a genus of filamentous cyanobacterium which is named after the oscillation in its movement. Filaments in the colonies can slide back and forth against each other until the whole mass is reoriented to its light source. It is commonly found in watering-troughs waters, and is mainly blue-green or brown-green. Oscillatoria is an organism that reproduces by fragmentation. Oscillatoria forms long filaments of cells which can break into fragments called hormogonia. The hormogonia can grow into a new, longer filament. Breaks in the filament usually occur where dead cells (necridia) are present. Oscillatoria uses photosynthesis to survive and reproduce. Each filament of oscillatoria consists of trichome which is made up of rows of cells. The tip of the trichome oscillates like a pendulum.
+### Oscillatoria 
+[*Oscillatoria*](https://en.wikipedia.org/wiki/Oscillatoria) is a genus of filamentous cyanobacterium which is named after the oscillation in its movement (Figure \@ref(fig:oscillatoria)). Filaments in the colonies can slide back and forth against each other until the whole mass is reoriented to its light source. It is commonly found in watering-troughs waters, and is mainly blue-green or brown-green. Oscillatoria is an organism that reproduces by fragmentation. Oscillatoria forms long filaments of cells which can break into fragments called hormogonia. The hormogonia can grow into a new, longer filament. Breaks in the filament usually occur where dead cells (necridia) are present. Oscillatoria uses photosynthesis to survive and reproduce. Each filament of oscillatoria consists of trichome which is made up of rows of cells. The tip of the trichome oscillates like a pendulum.
+
+````{r oscillatoria, fig.cap='Oscillatoria.', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/bacteria/oscillatoria.jpg")
+````
 
 ### Nostoc
-[*Nostoc*](https://en.wikipedia.org/wiki/Nostoc) is a genus of cyanobacteria found in various environments that forms colonies composed of filaments of moniliform cells in a gelatinous sheath. Nostoc can be found in soil, on moist rocks, at the bottom of lakes and springs (both fresh- and saltwater), and rarely in marine habitats. It may also grow symbiotically within the tissues of plants, such as the evolutionarily ancient angiosperm Gunnera and the hornworts (a group of bryophytes), providing nitrogen to its host through the action of terminally differentiated cells known as heterocysts. These bacteria contain photosynthetic pigments in their cytoplasm to perform photosynthesis.
+[*Nostoc*](https://en.wikipedia.org/wiki/Nostoc) is a genus of cyanobacteria found in various environments that forms colonies composed of filaments of moniliform cells in a gelatinous sheath (Figure \@ref(fig:nostoc)). Nostoc can be found in soil, on moist rocks, at the bottom of lakes and springs (both fresh- and saltwater), and rarely in marine habitats. It may also grow symbiotically within the tissues of plants, such as the evolutionarily ancient angiosperm Gunnera and the hornworts (a group of bryophytes), providing nitrogen to its host through the action of terminally differentiated cells known as heterocysts. These bacteria contain photosynthetic pigments in their cytoplasm to perform photosynthesis.
+
+```{r livenostoc, fig.cap='Nostoc.', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/bacteria/nostoc_live.jpg")
+```
 
 ### Gloeocapsa
 [*Gloeocapsa*](https://en.wikipedia.org/wiki/Gloeocapsa) (from the Greek gloia (gelatinous) and the Latin capsa (case) is a genus of cyanobacteria (Figure \@ref(fig:gloeocapsa)). The cells secrete individual gelatinous sheaths which can often be seen as sheaths around recently divided cells within outer sheaths. Recently divided cell pairs often appear to be only one cell since the new cells cohere temporarily. They are also known as glow caps, a term derived from the yellowish hue given off by the cap.
@@ -51,18 +59,29 @@ knitr::include_graphics("./figures/bacteria/gloeocapsa.jpg")
 ```
 
 ##  View Prepared Slides
-### Mixed coccus (Gram stain)
 
-### Mixed bacillus (Gram stain)
+### Mixed coccus (Gram stain) (Figure \@ref(fig:cocci))
 
-### Spirillum
+```{r cocci, fig.cap='Mixed cocci.', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/bacteria/cocci.jpg")
+```
+
+### Mixed bacillus (Gram stain) (Figure \@ref(fig:bacilli))
+
+```{r bacilli, fig.cap='Mixed bacilli.', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/bacteria/bacilli.jpg")
+```
+
+### Spirillum 
+
 [*Spirillum*](https://en.wikipedia.org/wiki/Spirillum) is a genus of Gram-negative bacteria (Figure \@ref(fig:spirilla)). Members of the genus Spirillum are large, elongate, spiral shaped, rigid cells. Some have tufts of amphitrichous flagella at both poles. They are microaerophilic and usually found in stagnant freshwater rich in organic matter.
 
 ```{r spirilla, fig.cap='Spirilla.', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/bacteria/spirilla.jpg")
 ```
 
-### Treponema
+### Treponema 
+
 [*Treponema*](https://en.wikipedia.org/wiki/Treponema) is a genus of spiral-shaped Gram-negative bacteria (Figure \@ref(fig:treponema)). The major treponeme species of human pathogens is Treponema pallidum, whose subspecies are responsible for diseases such as syphilis, bejel, and yaws.
 
 ```{r treponema, fig.cap='Treponema.', echo=FALSE, message=FALSE, warning=FALSE}
@@ -72,8 +91,13 @@ knitr::include_graphics("./figures/bacteria/treponema.jpg")
 ### Clostridium botulinum
 [*Clostridium botulinum*](https://en.wikipedia.org/wiki/Clostridium_botulinum) is a Gram-positive, rod-shaped, anaerobic, spore-forming, motile bacterium with the ability to produce a neurotoxin known as botulinum toxin. The botulinum toxin can cause a severe flaccid paralytic disease in humans and other animals and is the most potent toxin known to humankind, natural or synthetic, with a lethal dose of 1.3-2.1 ng/kg in humans. *C. botulinum* is an obligate anaerobe, meaning that oxygen is poisonous to the cells. However, it tolerates traces of oxygen due to the enzyme superoxide dismutase, which is an important antioxidant defense in nearly all cells exposed to oxygen. C. botulinum is only able to produce the neurotoxin during sporulation, which can only happen in an anaerobic environment. Other bacterial species produce spores in an unfavorable growth environment to preserve the organism's viability and permit survival in a dormant state until the spores are exposed to favorable conditions.
 
-### Staphylococcus aureus
-[*Staphylococcus aureus*](https://en.wikipedia.org/wiki/Staphylococcus_aureus) is a gram-positive, round-shaped bacterium that is a member of the Firmicutes, and it is a member of the normal flora of the body, frequently found in the nose, respiratory tract, and on the skin. It is often positive for catalase and nitrate reduction and is a facultative anaerobe that can grow without the need for oxygen. Although S. aureus is not always pathogenic (and can commonly be found existing as a commensal), it is a common cause of skin infections including abscesses, respiratory infections such as sinusitis, and food poisoning. Pathogenic strains often promote infections by producing virulence factors such as potent protein toxins, and the expression of a cell-surface protein that binds and inactivates antibodies. The emergence of antibiotic-resistant strains of S. aureus such as methicillin-resistant S. aureus (MRSA) is a worldwide problem in clinical medicine.
+### Staphylococcus aureus 
+
+[*Staphylococcus aureus*](https://en.wikipedia.org/wiki/Staphylococcus_aureus) (Figure \@ref(fig:staph)) is a gram-positive, round-shaped bacterium that is a member of the Firmicutes, and it is a member of the normal flora of the body, frequently found in the nose, respiratory tract, and on the skin. It is often positive for catalase and nitrate reduction and is a facultative anaerobe that can grow without the need for oxygen. Although S. aureus is not always pathogenic (and can commonly be found existing as a commensal), it is a common cause of skin infections including abscesses, respiratory infections such as sinusitis, and food poisoning. Pathogenic strains often promote infections by producing virulence factors such as potent protein toxins, and the expression of a cell-surface protein that binds and inactivates antibodies. The emergence of antibiotic-resistant strains of S. aureus such as methicillin-resistant S. aureus (MRSA) is a worldwide problem in clinical medicine.
+
+```{r staph, fig.cap='Staphylococcus aureus.', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/bacteria/staphaureus.jpg")
+```
 
 ### Oscillatoria
 
@@ -83,8 +107,13 @@ knitr::include_graphics("./figures/bacteria/treponema.jpg")
 knitr::include_graphics("./figures/bacteria/nostoc.jpg")
 ```
 
-### Anabaena
-[*Anabaena*](https://en.wikipedia.org/wiki/Anabaena) is a genus of filamentous cyanobacteria that exist as plankton. They are known for nitrogen-fixing abilities, and they form symbiotic relationships with certain plants, such as the mosquito fern. They are one of four genera of cyanobacteria that produce neurotoxins, which are harmful to local wildlife, as well as farm animals and pets. Production of these neurotoxins is assumed to be an input into its symbiotic relationships, protecting the plant from grazing pressure.
+### Anabaena 
+
+[*Anabaena*](https://en.wikipedia.org/wiki/Anabaena) is a genus of filamentous cyanobacteria that exist as plankton (Figure \@ref(fig:anabaena)). They are known for nitrogen-fixing abilities, and they form symbiotic relationships with certain plants, such as the mosquito fern. They are one of four genera of cyanobacteria that produce neurotoxins, which are harmful to local wildlife, as well as farm animals and pets. Production of these neurotoxins is assumed to be an input into its symbiotic relationships, protecting the plant from grazing pressure.
+
+```{r anabaena, fig.cap='Anabaena.', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/bacteria/anabaena.jpg")
+```
 
 ## Review Questions
 1. What are bacteria?
