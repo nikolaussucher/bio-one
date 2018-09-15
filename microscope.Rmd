@@ -9,6 +9,7 @@ The objective lens of a microscope (Figure \@ref(fig:objectives)) is a cylinder 
 ```{r objectives, fig.cap='The microscope objectives.', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/microscope/Microscope_objectives.jpg")
 ```
+
 The eyepieces, or ocular lenses (Figure \@ref(fig:oculars)), are the lenses that are closest to your eyes when you look through the microscope. The objective lens or mirror collects light and brings it to focus creating an image. The eyepiece is placed near the focal point of the objective to magnify this image. This image is inverted and can be seen by removing the eyepiece and placing a piece of tracing paper over the end of the tube. By carefully focusing a brightly lit specimen, a highly enlarged image can be seen. It is this real image that is viewed by the eyepiece lens that provides further enlargement. The amount of magnification depends on the focal length of the eyepiece. The ocular in our microscopes have a 10× magnification.
 
 ```{r oculars, fig.cap='The oculars (eye pieces) of the microscope.', echo=FALSE, message=FALSE, warning=FALSE}
@@ -112,6 +113,10 @@ It is dioecious, with male and female flowers on different plants. The flowers h
 5.	Inside the cells are large oval-shaped green bodies, the chloroplasts.
 6.	As the cells warm, you can see the chloroplasts carried by the moving cytoplasm around the nearly transparent nucleus in the center of the cell.
 7.	Make a drawing of what you see at 400× magnification.
+
+```{r elodea, fig.cap='Elodea wet mount at 1000× magnification.', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/microscope/elodea.jpg")
+```
 
 ## How to turn off the microscope
 
