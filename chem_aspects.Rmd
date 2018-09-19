@@ -89,8 +89,8 @@ Table: (\#tab:starch) Test for starch.
 4        | 2 ml sucrose       | 5 drops      |                |                    |
 5        | cotton (cellulose) |	5 drops      |                |                    |
 6        | a small piece of bread|5 drops  |                |                    |
-7        | a small piece of potato|	5 drops|                |                    |
-8        | 2 ml of starch plus 2 ml of amylase|5 drops|      |                    |
+7        | a small piece of potato|5 drops |                |                    |
+8        | 2 ml of starch plus 2 ml of amylase| |      |                    |
 9        | Leave empty then follow step 8 above|2 ml of Benedict's solution| |    |
 
 
