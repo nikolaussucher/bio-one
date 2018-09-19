@@ -24,8 +24,8 @@ knitr::include_graphics("./figures/chem_aspects/Heatblock.jpg")
 ```
 
 ### Experimental procedures
-1.	Turn on the 65 °C heat block (Figure \@ref(fig:heatblock)) by pushing the little black switch on the lower right side of the to "high". Rotate the white "high temperature adjust" button to number 3.
-2.	Turn on the 37 °C heat block by pushing the little black switch on the lower right side of the to "low". Rotate the white "low temperature adjust" button to number 4.
+1.	Turn on the 65 °C heat block (Figure \@ref(fig:heatblock)) by pushing the little black switch on the lower right side of the to "high". Rotate the white "high temperature adjust" button to number 2 to 3.
+2.	Turn on the 37 °C heat block by pushing the little black switch on the lower right side of the to "low". Rotate the white "low temperature adjust" button to number 3 to 4.
 1.	Obtain 7 plastic test tubes and a test tube rack.
 2.	Using a wax pencil,label each tube with a number (1 to 7).
 3.	Place the tubes from left (tube #1) to right (tube #7) in the first row of a test tube rack.
