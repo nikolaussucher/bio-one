@@ -37,8 +37,6 @@ knitr::include_graphics("./figures/chem_aspects/Heatblock.jpg")
 knitr::include_graphics("./figures/chem_aspects/Transfer_pipette.jpg")
 ```
 
-Figure 5 
-
 6.	Mix well.
 7.	Check the that the temperature of the heat block is ~65 °C and then place the tubes in the heat block. Set a timer and incubate the tubes for 15 minutes. Begin setting up Experiment 2 (below) while the tubes are incubating.
 8.	After 15 minutes, remove the tubes using a test tube holder (be careful, they are hot!), place them in the tube rack and record the color (in your own words) in Table \@ref(tab:sugar).
@@ -47,13 +45,13 @@ Table: (\#tab:sugar) Test for reducing sugars.
 
 |Tube #  |Test material      |	Benedict's  |Observed color |Test Result (+ or -)
 |:------:|:------------------|:-----------:|:-------------:|:-------------------:|
-1	       |2 ml H~2~O         |	2 ml       |               |                     |
-2	       |2 ml glucose       |  2 ml       |               |                     |
-3	       |2 ml milk          |	2 ml       |               |                     |
-4	       |2 ml apple juice   |	2 ml       |               |                     |
-5	       |2 ml starch        |	2 ml       |               |                     |
+1	 |2 ml H~2~O         |	2 ml       |               |                     |
+2	 |2 ml glucose       |  2 ml       |               |                     |
+3	 |2 ml milk          |	2 ml       |               |                     |
+4	 |2 ml apple juice   |	2 ml       |               |                     |
+5	 |2 ml starch        |	2 ml       |               |                     |
 6        |2 ml molasses      |	2 ml       |               |                     |
-7	       |2 ml sucrose	     | 2 ml        |               |                     |
+7	 |2 ml sucrose	     |  2 ml        |               |                     |
 
 
 ```{r exp1, fig.cap='Results from experiment 1. Compare to your results!', echo=FALSE, message=FALSE, warning=FALSE}
@@ -82,16 +80,16 @@ An [amylase](https://en.wikipedia.org/wiki/Amylase) is an enzyme that catalyzes 
 Table: (\#tab:starch) Test for starch.
 
 |Tube # | Test material      |	Iodine       | Observed color |	Test Result (+ or -)
-|:------:|:-------------------|:------------:|:--------------:|:------------------:|
-1        | 2 ml starch        |	5 drops      |                |                    |
-2        | 2 ml glucose       |	5 drops      |                |                    |
-3	       | 2 ml H~2~O	        | 5 drops      |                |                    |
-4        | 2 ml sucrose       | 5 drops      |                |                    |
-5        | cotton (cellulose) |	5 drops      |                |                    |
-6        | a small piece of bread|5 drops  |                |                    |
-7        | a small piece of potato|5 drops |                |                    |
-8        | 2 ml of starch plus 2 ml of amylase| |      |                    |
-9        | Leave empty then follow step 8 above|2 ml of Benedict's solution| |    |
+|:-----:|:-------------------|:-------------:|:--------------:|:------------------:|
+1       | 2 ml starch        |	5 drops      |                |                    |
+2       | 2 ml glucose       |	5 drops      |                |                    |
+3	| 2 ml H~2~O	     | 5 drops       |                |                    |
+4       | 2 ml sucrose       | 5 drops       |                |                    |
+5       | cotton (cellulose) |	5 drops      |                |                    |
+6       | a small piece of bread|5 drops     |                |                    |
+7       | a small piece of potato|5 drops    |                |                    |
+8       | 2 ml of starch plus 2 ml of amylase and then place the tube in the 37 °C heat block| |   |   |
+9       | Leave empty and follow step 8 above|2 ml of Benedict's solution| |      |
 
 
 ```{r exp2, fig.cap='Results from experiment 2. Compare to your results!', echo=FALSE, message=FALSE, warning=FALSE}
@@ -182,6 +180,16 @@ It is important to mention that the procedure for DNA extraction we are using is
 5.	Pour the filtrate into a plastic tube. Fill the tube to about half the volume
 6.	Use the transfer pipet to drip alcohol slowly down the sides of the tube (about 5 ml of ice cold alcohol), while holding the tube at approximately an angle of 45 °.  Try to make a clear and undisturbed layer of alcohol to float on the lysate.  The line between the two layers is called the interface.
 7.	At the interface, you will see the DNA precipitate out of solution and float to the top. Spool the DNA on your glass rod.
+
+
+```{r strawberry, fig.cap='Filtration of the strawberry homogenate.', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/chem_aspects/Strawberry_extract.jpg")
+```
+
+
+```{r dna, fig.cap='Precipitated strawberry DNA sticking to the tip of the glassrod.', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/chem_aspects/Strawberry_DNA.jpg")
+```
 
 ## Cleaning up
 1.  Empty the contents of the plastic tube into the labeled waste container (brown bottle) in the chemical fume hood.
