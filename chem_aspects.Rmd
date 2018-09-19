@@ -89,7 +89,7 @@ Table: (\#tab:starch) Test for starch.
 6       | a small piece of bread|5 drops     |                |                    |
 7       | a small piece of potato|5 drops    |                |                    |
 8       | 2 ml of starch plus 2 ml of amylase and then place the tube in the 37 °C heat block| |   |   |
-9       | Leave empty and follow step 8 above|2 ml of Benedict's solution| |      |
+9       | Leave empty and follow step 8 above|| |      |
 
 
 ```{r exp2, fig.cap='Results from experiment 2. Compare to your results!', echo=FALSE, message=FALSE, warning=FALSE}
