@@ -175,11 +175,11 @@ It is important to mention that the procedure for DNA extraction we are using is
 ### Experimental procedures
 1.	Place 2 to 4 strawberries in a zip lock bag.  Gently, mash up the fruit by pushing the bags with your hand against the lab bench. This will mechanically breakdown the cell wall.
 2.	Add 15 ml of the extraction buffer to the bag. Mix and mash again for one minute (chemical portion of the extraction procedure to lyse the cell membranes to release the DNA).
-3.	Filter the homogenate using cheesecloth. Hold the cheesecloth over the beaker with the help of a rubber band.  This step removes cell organelles, broken cell walls, membrane fragments, and other cell debris.
+3.	Filter the homogenate using cheesecloth (Figure \@ref(fig:strawberry)). This step removes cell organelles, broken cell walls, membrane fragments, and other cell debris.
 4.	Collect the filtrate; squeeze the cheesecloth to get the as much of the lysate as possible.
 5.	Pour the filtrate into a plastic tube. Fill the tube to about half the volume
-6.	Use the transfer pipet to drip alcohol slowly down the sides of the tube (about 5 ml of ice cold alcohol), while holding the tube at approximately an angle of 45 °.  Try to make a clear and undisturbed layer of alcohol to float on the lysate.  The line between the two layers is called the interface.
-7.	At the interface, you will see the DNA precipitate out of solution and float to the top. Spool the DNA on your glass rod.
+6.	Use the transfer pipet to drip alcohol slowly down the sides of the tube (about 5 ml of ice cold alcohol), while holding the tube at approximately an angle of 45°.  Try to make a clear and undisturbed layer of alcohol to float on the lysate.  The line between the two layers is called the interface.
+7.	At the interface, you will see the DNA precipitate out of solution and float to the top. Spool the DNA on your glass rod (Figure \@ref(fig:dna)).
 
 
 ```{r strawberry, fig.cap='Filtration of the strawberry homogenate.', echo=FALSE, message=FALSE, warning=FALSE}
