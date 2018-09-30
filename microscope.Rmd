@@ -114,8 +114,8 @@ It is dioecious, with male and female flowers on different plants. The flowers h
 6.	As the cells warm, you can see the chloroplasts carried by the moving cytoplasm around the nearly transparent nucleus in the center of the cell.
 7.	Make a drawing of what you see at 400× magnification.
 
-```{r elodea, fig.cap='Elodea wet mount at 1000× magnification.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/microscope/elodea.jpg")
+```{r elodea, fig.cap='Elodea leaf wet mount (4× objective).', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/microscope/elodea_leaf.jpg")
 ```
 
 ## How to turn off the microscope
