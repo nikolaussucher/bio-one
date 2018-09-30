@@ -1,21 +1,3 @@
-```{r include=FALSE, cache=FALSE}
-set.seed(1014)
-options(digits = 3)
-
-knitr::opts_chunk$set(
-  comment = "#>",
-  collapse = TRUE,
-  cache = TRUE,
-  out.width = "70%",
-  fig.align = 'center',
-  fig.width = 6,
-  fig.asp = 0.618,  # 1 / phi
-  fig.show = "hold"
-)
-
-options(dplyr.print_min = 6, dplyr.print_max = 6)
-options(knitr.graphics.auto_pdf = TRUE)
-```
 # Cell structure
 
 The smallest unit of life is the [cell](https://en.wikipedia.org/wiki/Cell_(biology)). In this lab, we will look at eukaryotic (plant and animal) cells under the microscope.
@@ -30,16 +12,30 @@ knitr::include_graphics("./figures/cell_struc/materials.jpg")
 2.	Look at the leaf under the microscope.
 3.	Notice that the cells are clearly delineated by the cell wall. Inside the cells are large oval-shaped green bodies, the chloroplasts.
 
+```{r elodea, fig.cap='Elodea wet mount (100× oil immersion objective).', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/cell_struc/elodea.jpg")
+```
+
 ## Onion leaf epidermal cells
 ### Experimental procedures
 1.	Peel a very thin layer from the concave side of a piece of onion, and mount in water. Make sure the membrane lays very flat and is not wrinkled or folded on your slide.
 2.	Dim the light and find the nucleus, which is much easier to see here because there are no chloroplasts. Close examination should reveal one or more nucleoli in the nucleus.
 3.	Note the movement of small particles in the nearly trans- parent cytoplasm. This is Brownian movement, which we will study in more detail in another exercise.
 
+
+```{r onion, fig.cap='Onion epidermis.', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/cell_struc/onion.jpg")
+```
+
 ## Carrot root cells
 ### Experimental procedures
 1.	Use a razor blade and shave a very thin (almost translucent) slice of carrot onto a slide and prepare a wet mount of it.
 2.	Observe the orange-yellow bodies called chromoplasts, another type of plastid. Chromoplasts are enriched in pigments that give flowers, fruits, and fall leaves their colors, and carrots their orange color.
+
+
+```{r carot, fig.cap='Carot wet mount.', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/cell_struc/carot.jpg")
+```
 
 ## Potato cells
 Potatoes are stems full of starch that is stored within the cells in colorless plastids called amyloplasts.
@@ -62,6 +58,10 @@ The outer and inner surface of our body is formed by epithelial cells.
 1.	Rub the inner side of your cheek with a toothpick to pick up some cells.
 2.	Scrape the cloudy (cell-containing) fluid onto a slide, add a drop of dilute methylene blue, and observe under the microscope. Note that bacteria and possibly fungi on top and around your cheek cells.
 
+```{r cheek, fig.cap='Human cheek epidermal cells.', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/cell_struc/cheek.jpg")
+```
+
 ## Cleaning up
 Dispose of the toothpicks and the slide with the cheek cells in the beakers containing (green looking) disinfectant liquid.
 
@@ -75,6 +75,10 @@ Blood is circulated around the body through blood vessels by the pumping action 
 1.	Look at the prepared slide containing a human blood stain.
 2.	Can you distinguish multiple types of white blood cells?
 3.	Return the slide to the white slide box.
+
+```{r blood, fig.cap='Human blood smear. Note red and two types of white blood cells.', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/cell_struc/blood.jpg")
+```
 
 ## Review Questions
 1. What the main structural features eukaryotic cells?
