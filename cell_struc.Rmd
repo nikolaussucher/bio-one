@@ -9,7 +9,7 @@ knitr::include_graphics("./figures/cell_struc/materials.jpg")
 ## Elodea cells
 ### Experimental procedures
 1.	Get a single leaf from the Elodea plant and mount it on a slide, cover it with a drop of water and a cover slip.
-2.	Look at the leaf under the microscope.
+2.	Look at the leaf under the microscope (Figure \@ref(fig:elodea)).
 3.	Notice that the cells are clearly delineated by the cell wall. Inside the cells are large oval-shaped green bodies, the chloroplasts.
 
 ```{r elodea, fig.cap='Elodea wet mount (100× oil immersion objective).', echo=FALSE, message=FALSE, warning=FALSE}
@@ -19,7 +19,7 @@ knitr::include_graphics("./figures/cell_struc/elodea.jpg")
 ## Onion leaf epidermal cells
 ### Experimental procedures
 1.	Peel a very thin layer from the concave side of a piece of onion, and mount in water. Make sure the membrane lays very flat and is not wrinkled or folded on your slide.
-2.	Dim the light and find the nucleus, which is much easier to see here because there are no chloroplasts. Close examination should reveal one or more nucleoli in the nucleus.
+2.	Dim the light and find the nucleus, which is much easier to see here because there are no chloroplasts (Figure \@ref(fig:onion)). Close examination should reveal one or more nucleoli in the nucleus.
 3.	Note the movement of small particles in the nearly trans- parent cytoplasm. This is Brownian movement, which we will study in more detail in another exercise.
 
 
@@ -29,11 +29,11 @@ knitr::include_graphics("./figures/cell_struc/onion.jpg")
 
 ## Carrot root cells
 ### Experimental procedures
-1.	Use a razor blade and shave a very thin (almost translucent) slice of carrot onto a slide and prepare a wet mount of it.
+1.	Use a razor blade and shave a very thin (almost translucent) slice of carrot onto a slide and prepare a wet mount of it (Figure \@ref(fig:carot)).
 2.	Observe the orange-yellow bodies called chromoplasts, another type of plastid. Chromoplasts are enriched in pigments that give flowers, fruits, and fall leaves their colors, and carrots their orange color.
 
 
-```{r carot, fig.cap='Carot wet mount.', echo=FALSE, message=FALSE, warning=FALSE}
+```{r carot, fig.cap='Carrot wet mount.', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/cell_struc/carot.jpg")
 ```
 
@@ -56,7 +56,7 @@ The outer and inner surface of our body is formed by epithelial cells.
 
 ### Experimental procedures
 1.	Rub the inner side of your cheek with a toothpick to pick up some cells.
-2.	Scrape the cloudy (cell-containing) fluid onto a slide, add a drop of dilute methylene blue, and observe under the microscope. Note that bacteria and possibly fungi on top and around your cheek cells.
+2.	Scrape the cloudy (cell-containing) fluid onto a slide, add a drop of dilute methylene blue, and observe under the microscope (Figure \@ref(fig:cheek)). Note that bacteria and possibly fungi on top and around your cheek cells.
 
 ```{r cheek, fig.cap='Human cheek epidermal cells.', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/cell_struc/cheek.jpg")
@@ -72,7 +72,7 @@ Jawed vertebrates have an adaptive immune system, based largely on white blood c
 Blood is circulated around the body through blood vessels by the pumping action of the heart. In animals with lungs, arterial blood carries oxygen from inhaled air to the tissues of the body, and venous blood carries carbon dioxide, a waste product of metabolism produced by cells, from the tissues to the lungs to be exhaled.
 
 ### Experimental procedures
-1.	Look at the prepared slide containing a human blood stain.
+1.	Look at the prepared slide containing a human blood stain (Figure \@ref(fig:blood)).
 2.	Can you distinguish multiple types of white blood cells?
 3.	Return the slide to the white slide box.
 
