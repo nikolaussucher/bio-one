@@ -26,9 +26,9 @@ A distinguishing feature of diffusion is that it depends on particle random walk
 ## Diffusion in a solid
 
 ### Experimental procedures
-1. Place a crystal of KMnO~4~ onto a Petri dish with agarose gel.
-2. Place a crystal of Malachite green about centimeters from the potassium permanganate crystal.
-3. Place a few specks of carmine red in a tho d space away from the other crystals.
+1. Place a few crystals of KMnO~4~ onto a Petri dish with agarose gel.
+2. Place a few crystals of malachite green about 2 centimeters from the potassium permanganate crystal.
+3. Place a few specks of carmine red about 2 cm from each of the other crystals.
 3. Note the rate of diffusion.
 4. Find the molecular weights of each compound from [Wikipedia](https://www.wikipedia.org).
    
