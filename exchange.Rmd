@@ -28,6 +28,7 @@ A distinguishing feature of diffusion is that it depends on particle random walk
 ### Experimental procedures
 1. Place a crystal of KMnO~4~ onto a Petri dish with agarose gel.
 2. Place a crystal of Malachite green about centimeters from the potassium permanganate crystal.
+3. Place a few specks of carmine red in a tho d space away from the other crystals.
 3. Note the rate of diffusion.
 4. Find the molecular weights of each compound from [Wikipedia](https://www.wikipedia.org).
    
@@ -89,7 +90,7 @@ knitr::include_graphics("./figures/exchange/Osmosis_blood.jpg")
 ### Experimental procedures
 1. Work in groups of three students
 2. Get three clean slides.
-3. With a wax pencil, mark the first slide "5%"", the second "0.85%"", and the third "0%"" (distilled water).
+3. With a wax pencil, mark the first slide "5%", the second "0.85%", and the third "0%" (distilled water).
 4. Place a drop of the corresponding saline solution (NaCl) and distilled water on each slide using a plastic transfer pipette.
 5. Add a small drop of sheep's blood beside the drop of saline.
 6. Add a coverslip to each slide immediately, raising and lowering the coverslip a couple of times to mix the blood and saline.
