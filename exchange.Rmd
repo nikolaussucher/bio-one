@@ -23,6 +23,10 @@ A distinguishing feature of diffusion is that it depends on particle random walk
 3. Put the tube in a test tube rack and place it where it will not be disturbed for the remainder of the lab period
 4. From time to time, observe the how the KMnO~4~ diffuses through the water.
 
+```{r liquid, fig.cap='Diffusion of a solid (KMnO~4~) in a liquid (H~2~O).', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/exchange/liquid_diffusion.jpg")
+```
+
 ## Diffusion in a solid
 
 ### Experimental procedures
@@ -31,18 +35,22 @@ A distinguishing feature of diffusion is that it depends on particle random walk
 3. Place a few specks of carmine red about 2 cm from each of the other crystals.
 3. Note the rate of diffusion.
 4. Find the molecular weights of each compound from [Wikipedia](https://www.wikipedia.org).
-   
+
+```{r solid, fig.cap='Diffusion of three different solids through agarose.', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/exchange/solid_diffusion.jpg")
+```
+
 ## Diffusion Through a Selectively Permeable Membrane
 
 A selectively permeable membrane is a type of biological or synthetic, polymeric membrane that will allow certain molecules or ions to pass through it by diffusion—or in the case of bioloigcal membranes (e.g. the cell membrane) by more specialized processes such as facilitated diffusion and active transport. In this experiment we will use a dialysis or [semipermeable membrane](https://en.wikipedia.org/wiki/Semipermeable_membranea)–a selectively permeable membrane that allows particles below a certain size through but excludes any particles that are larger. 
 
 ### Experimental procedures
 1. Fill a 500-ml beaker with 300 ml of water.
-2. Get a ~ 10 cm long piece of dialysis tubing and submerge it for ~ 10 seconds in the water.
+2. Get a ~10 cm long piece of dialysis tubing and submerge it for ~ 10 seconds in the water.
 3. Remove the dialysis tubing and clamp one end with the yellow clamp.
 4. Rub the other end between the tips of your thumb and index fingers to open the dialysis membrane.
 5. Get the starch solution and shake it well.
-6. Fill the dialysis tubing with ~ 10 ml of starch solution.
+6. Fill the dialysis tubing with ~10 ml of starch solution.
 7. Clamp off the open end.
 8. Rinse with tap water.
 9. Add iodine solution to the beaker with water until the solution becomes dark orange.
@@ -90,12 +98,26 @@ knitr::include_graphics("./figures/exchange/Osmosis_blood.jpg")
 ### Experimental procedures
 1. Work in groups of three students
 2. Get three clean slides.
-3. With a wax pencil, mark the first slide "5%", the second "0.85%", and the third "0%" (distilled water).
-4. Place a drop of the corresponding saline solution (NaCl) and distilled water on each slide using a plastic transfer pipette.
-5. Add a small drop of sheep's blood beside the drop of saline.
-6. Add a coverslip to each slide immediately, raising and lowering the coverslip a couple of times to mix the blood and saline.
-7. Choose an area where the cells are thinly distributed and observe under 400x magnification. The differences are best compared if three microscopes are used at once, side by side.
+3. With a wax pencil, mark the first slide "5%", the second "0.85%", and the third "0%".
+4. Using a plastic transfer pipette, place a drop of 5% NaCl solution just slightly off center on the first slide (labelled "5%"), then place a drop of 0.85% NaCl solution just slightly off center on the second slide (labelled "0.85%") and finally place a drop of distilled water just slightly off center on the last slide (labelled "0%").
+5. To each of the three slides, add a small drop of sheep's blood beside the drop of saline or water.
+6. Put a coverslip on top of the adjacent drops of liquid and blood on each slide. Raise and lower the coverslip a couple of times to mix the blood and saline.
+7. Place each slide on the stage of a three microscopes that are side by side.
+7. Using the 4× objective, focus on the blood and choose an area where the cells are thinly distributed.
+8. Switch  to the to 10× objective. Refocus on the blood using the fine focus know. Then switch to the 40× objective, refocus using the fine focus know and observe the blood cells under 400× magnification.
 8. Compare your observation with the figure shown above.
+
+```{r hypertonic, fig.cap='Red blood cells from sheep in hypertonic saline solution (5% NaCl).', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/exchange/blood_hypertonic.jpg")
+```
+
+```{r isotonic, fig.cap='Red blood cells from sheep in isotonic saline solution (0.85% NaCl).', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/exchange/blood_isotonic.jpg")
+```
+
+```{r hypotonic, fig.cap='Red blood cells from sheep in distilled water.', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/exchange/blood_hypotonic.jpg")
+```
 
 ## Turgor and Plasmolysis
 Osmotic pressure is the main cause of support in many plants. The osmotic entry of water raises the turgor pressure exerted against the cell wall, until it equals the osmotic pressure, creating a steady state. When a plant cell is placed in a solution that is hypertonic relative to the cytoplasm, water moves out of the cell and the cell shrinks (Figure \@ref(fig:osmosisp)). In doing so, the cell becomes flaccid. In extreme cases, the cell becomes plasmolyzed - the cell membrane disengages with the cell wall due to lack of water pressure on it. When a plant cell is placed in a solution that is hypotonic relative to the cytoplasm, water moves into the cell and the cell swells to become turgid. Osmosis is responsible for the ability of plant roots to draw water from the soil. Plants concentrate solutes in their root cells by active transport, and water enters the roots by osmosis. Osmosis is also responsible for controlling the movement of guard cells.
@@ -113,6 +135,10 @@ knitr::include_graphics("./figures/exchange/Osmosis_plant.jpg")
 3. Let it sit for a minute or two and observe again. The cell contains a vacuole, which holds most of the cell's water, similar to a water bag inside the cell. Note the clear space forming between the cell wall and the cell membrane.
 4. Rinse the salt solution from the leaf and remount in water.
 5. Observe periodically for about 5 minutes. How is the cell changing?
+
+```{r plasmolysis, fig.cap='Elodea leaf in hypertonic saline solution (7% NaCl).', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/exchange/elodea_plasmolysis.jpg")
+```
 
 ## Review Questions
 1. What is and what causes Brownian motion?
