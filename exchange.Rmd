@@ -21,7 +21,7 @@ A distinguishing feature of diffusion is that it depends on particle random walk
 1. Add 10 mL of water to a plastic test tube.
 2. Drop a crystal of purple KMnO~4~ (potassium permanganate) into it.
 3. Put the tube in a test tube rack and place it where it will not be disturbed for the remainder of the lab period
-4. From time to time, observe the how the KMnO~4~ diffuses through the water.
+4. From time to time, observe the how the KMnO~4~ diffuses through the water (Figure \@ref(fig:liquid)).
 
 ```{r liquid, fig.cap='Diffusion of a solid (KMnO~4~) in a liquid (H~2~O).', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/exchange/liquid_diffusion.jpg")
@@ -31,7 +31,7 @@ knitr::include_graphics("./figures/exchange/liquid_diffusion.jpg")
 
 ### Experimental procedures
 1. Place a few crystals of KMnO~4~ onto a Petri dish with agarose gel.
-2. Place a few crystals of malachite green about 2 centimeters from the potassium permanganate crystal.
+2. Place a few crystals of malachite green about 2 centimeters from the potassium permanganate crystal (Figure \@ref(fig:solid)).
 3. Place a few specks of carmine red about 2 cm from each of the other crystals.
 3. Note the rate of diffusion.
 4. Find the molecular weights of each compound from [Wikipedia](https://www.wikipedia.org).
@@ -56,7 +56,7 @@ A selectively permeable membrane is a type of biological or synthetic, polymeric
 9. Add iodine solution to the beaker with water until the solution becomes dark orange.
 10. Add the dialysis tube containing the starch to the beaker and submerge completely in the water.
 11. After about 15 minutes, observe the bag and surrounding liquid for any color change.
-12. When starch molecules touch iodine, a blue or purplish color appears.
+12. When starch molecules touch iodine, a blue or purplish color appears (Figure \@ref(fig:dialysis)).
 13. Start setting up Experiment 3 while you wait.
 
 ```{r dialysis, fig.cap='Result of the dialysis experiment.', echo=FALSE, message=FALSE, warning=FALSE}
@@ -104,8 +104,8 @@ knitr::include_graphics("./figures/exchange/Osmosis_blood.jpg")
 6. Put a coverslip on top of the adjacent drops of liquid and blood on each slide. Raise and lower the coverslip a couple of times to mix the blood and saline.
 7. Place each slide on the stage of a three microscopes that are side by side.
 7. Using the 4× objective, focus on the blood and choose an area where the cells are thinly distributed.
-8. Switch  to the to 10× objective. Refocus on the blood using the fine focus know. Then switch to the 40× objective, refocus using the fine focus know and observe the blood cells under 400× magnification.
-8. Compare your observation with the figure shown above.
+8. Switch  to the to 10× objective. Refocus on the blood using the fine focus knob. Then switch to the 40× objective, refocus using the fine focus knob and observe the blood cells under 400× magnification.
+8. Compare your observation with Figure \@ref(fig:hypertonic), Figure \@ref(fig:isotonic) and Figure \@ref(fig:hypotonic).
 
 ```{r hypertonic, fig.cap='Red blood cells from sheep in hypertonic saline solution (5% NaCl).', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/exchange/blood_hypertonic.jpg")
@@ -132,7 +132,7 @@ knitr::include_graphics("./figures/exchange/Osmosis_plant.jpg")
 ### Experimental procedures
 1. Mount a leaf of Elodea in water on a slide and observe.
 2. Blot off the water and add salt solution (7% NaCl) by adding the salt at one side of the coverslip and drawing it under by using a paper towel to absorb the fluid from the opposite side of the coverslip.
-3. Let it sit for a minute or two and observe again. The cell contains a vacuole, which holds most of the cell's water, similar to a water bag inside the cell. Note the clear space forming between the cell wall and the cell membrane.
+3. Let it sit for a minute or two and observe again. The cell contains a vacuole, which holds most of the cell's water, similar to a water bag inside the cell. Note the clear space forming between the cell wall and the cell membrane (Figure \@ref(fig:plasmolysis)).
 4. Rinse the salt solution from the leaf and remount in water.
 5. Observe periodically for about 5 minutes. How is the cell changing?
 
