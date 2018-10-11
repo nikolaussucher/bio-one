@@ -127,11 +127,11 @@ Tube # |	Height of bubbles (mm) |
 1. What is the name of the enzyme that we studied in this laboratrory session?
 1. What is an enzyme substrate?
 1. What is the substrate of the enzyme that we used in this laborator seesion?
-1. What are the products of the reachtion that was catalized by the enzyme that we studied in this laboratory seesion?
+1. What are the products of the reaction that was catalized by the enzyme that we studied in this laboratory seesion?
 1. What is the active site of an enzyme?
 1. What is the purpose of the negative and positive controls?
 1. State the hypothesis that was tested in experiment 2?
 1. State the hypothesis that was tested in experiment 3?
 1. State the hypothesis that was tested in experiment 4?
 1. The enzyme from potato appeared to work better at 4 °C than at 37 °C. Would you expect the same if we had used the equivalent human enzyme? Justify your answer.
-1. Why did heating the enzyme at high heat (> 65 °C) result in loss of activity?
+1. Why did heating the enzyme at high temperature (> 65 °C) result in loss of activity?
