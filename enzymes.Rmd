@@ -16,10 +16,6 @@ The first experiment will establish that our catalase works (positive control) a
 
 Hydrogen peroxide will not spontaneously degrade at room temperature in the absence of enzyme. When catalase is added to hydrogen peroxide, the reaction will take place and the oxygen produced will lead to the formation of bubbles in the solution. The height of the bubbles above the solution will be our measure of enzyme activity (Figure \@ref(fig:catalase)).
 
-```{r catalase, fig.cap='Catalase in action. Note the white bubbles above the darker liquid.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/enzymes/catalase.jpg")
-```
-
 ##  Positive and negative controls (Experiment 1)
 ### Experimental procedures
 1.	Obtain and label three 15 ml conical plastic reaction tubes.
@@ -44,6 +40,10 @@ Tube # |	Height of bubbles (mm) |
 2      |
 3      |
 
+```{r catalase, fig.cap='Results from experiment 1. Compare to your results!', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/enzymes/catalase_contr.jpg")
+```
+
 ##  Effect of temperature on enzyme activity (Experiment 2)
 ### Experimental procedures
 
@@ -61,6 +61,10 @@ Tube # |Height of bubbles (mm)  |
 1      ||
 2      ||
 3      ||
+
+```{r catalase, fig.cap='Results from experiment 2. Compare to your results!', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/enzymes/catalase_contr.jpg")
+```
 
 ##  Effect of concentration on enzyme activity (Experiment 3)
 ### Experimental procedures
@@ -87,6 +91,9 @@ Tube # |	Height of bubbles (mm) |
 2      ||
 3      ||
 
+```{r catalase, fig.cap='Results from experiment 1. Compare to your results!', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/enzymes/catalase_conc.jpg")
+```
 
 ##  Effect of pH on enzyme activity (Experiment 4)
 ### Experimental procedures
@@ -114,6 +121,10 @@ Tube # |	Height of bubbles (mm) |
 4        |                       |
 5        |                       |
 6        |                       |
+
+```{r catalase, fig.cap='Results from experiment 3. Compare to your results!', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/enzymes/catalase_ph.jpg")
+```
 
 ## Cleaning up
 1. Empty the contents of the plastic tubes into the labeled waste container (brown bottle) in the chemical fume hood.
