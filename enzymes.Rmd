@@ -10,11 +10,11 @@ In this laboratory, we will study the effect of temperature, concentration and p
 
 2 H~2~O~2~ -> 2 H~2~O + O~2~
 
-Hydrogen peroxide is toxic cells protect themselves. Cells therefore use catalase to protect themselves. In these experiments, we will use catalase enzyme from potato.
+Hydrogen peroxide is toxic. Cells therefore use catalase to protect themselves. In these experiments, we will use catalase enzyme from potato.
 
 The first experiment will establish that our catalase works (positive control) and that our reagents are not contaminated (negative control).
 
-Hydrogen peroxide will not spontaneously degrade at room temperature in the absence of enzyme. When catalase is added to hydrogen peroxide, the reaction will take place and the oxygen produced will lead to the formation of bubbles in the solution. The height of the bubbles above the solution will be our measure of enzyme activity (Figure \@ref(fig:catalase)).
+Hydrogen peroxide will not spontaneously degrade at room temperature in the absence of enzyme. When catalase is added to hydrogen peroxide, the reaction will take place and the oxygen produced will lead to the formation of bubbles in the solution. The height of the bubbles above the solution will be our measure of enzyme activity (Figure \@ref(fig:contr)).
 
 ##  Positive and negative controls (Experiment 1)
 ### Experimental procedures
@@ -40,7 +40,7 @@ Tube # |	Height of bubbles (mm) |
 2      |
 3      |
 
-```{r catalase, fig.cap='Results from experiment 1. Compare to your results!', echo=FALSE, message=FALSE, warning=FALSE}
+```{r contr, fig.cap='Results from experiment 1. Compare with your results!', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/enzymes/catalase_contr.jpg")
 ```
 
@@ -62,8 +62,8 @@ Tube # |Height of bubbles (mm)  |
 2      ||
 3      ||
 
-```{r catalase, fig.cap='Results from experiment 2. Compare to your results!', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/enzymes/catalase_contr.jpg")
+```{r temp, fig.cap='Results from experiment 2. Compare with your results!', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/enzymes/catalase_temp.jpg")
 ```
 
 ##  Effect of concentration on enzyme activity (Experiment 3)
@@ -85,13 +85,13 @@ knitr::include_graphics("./figures/enzymes/catalase_contr.jpg")
 
 Table: (\#tab:concentration) Effect of concentration on enzyme activity.
 
-Tube # |	Height of bubbles (mm) |
+Tube # |Height of bubbles (mm) |
 |:------:|-----------------------|
 1      ||
 2      ||
 3      ||
 
-```{r catalase, fig.cap='Results from experiment 1. Compare to your results!', echo=FALSE, message=FALSE, warning=FALSE}
+```{r conc, fig.cap='Results from experiment 3. Compare with your results!', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/enzymes/catalase_conc.jpg")
 ```
 
@@ -122,8 +122,39 @@ Tube # |	Height of bubbles (mm) |
 5        |                       |
 6        |                       |
 
-```{r catalase, fig.cap='Results from experiment 3. Compare to your results!', echo=FALSE, message=FALSE, warning=FALSE}
+```{r pH, fig.cap='Results from experiment 4. Compare with your results!', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/enzymes/catalase_ph.jpg")
+```
+
+(ref:pH) Catalase activity is dependent on pH. The data shown in this figure were obtained by three groups of students during a previous laboratory session. The green triangles represent the data from the experimental results shown in Figure \@ref(fig:pH).
+
+```{r activity, fig.cap='(ref:pH)', out.width='75%', echo=FALSE, message=FALSE, warning=FALSE}
+
+# Load libraries ----------------------------------------------------------
+
+# Load the libraries
+library(tidyverse)
+library(ggplot2)
+
+# Set working directory ---------------------------------------------------
+wdir <- "~/Dropbox/R/bio-one-master"
+setwd(wdir)
+
+# Read data ---------------------------------------------------------------
+
+data <- read_csv("data/catalase_ph.csv")
+
+data <- data %>% group_by(Group) %>% mutate(Normalized = activity/max(activity)*100)
+
+
+#plot 
+ggplot(data=data) +
+  geom_point(mapping = aes(x = pH, y = activity, shape = Group, color = Group),
+           size = 4, show.legend = FALSE) +
+  geom_smooth(mapping = aes(x = pH, y = activity),
+              show.legend = FALSE, size = 2) +
+  scale_x_continuous(breaks = seq(0, 14, 1)) +
+  labs(y = "Bubble height (mm)", x = "pH")
 ```
 
 ## Cleaning up

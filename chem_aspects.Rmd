@@ -11,8 +11,13 @@ Carbohydrates are biomolecules consisting of carbon (C), hydrogen (H) and oxygen
 Lipids are substances of biological origin that are insoluble in water. Lipids comprise a group of naturally occurring molecules that include fats, waxes, sterols, fat-soluble vitamins (such as vitamins A, D, E, and K), monoglycerides, diglycerides, triglycerides, and phospholipids. The main biological functions of lipids include storing energy, signaling, and acting as structural components of cell membranes.
 
 Proteins are large biomolecules consisting of one or more long chains of amino acids linked by peptide bonds. Proteins perform a vast array of functions within organisms, including catalyzing metabolic reactions, DNA replication, responding to stimuli, and transporting molecules from one location to another. Proteins differ from one another primarily in their sequence of amino acids, which is dictated by the nucleotide sequence of their genes, and which usually results in protein folding into a specific three-dimensional structure that determines its activity.
-```{r setup, fig.cap='Experimental materials for this lab.', echo=FALSE, message=FALSE, warning=FALSE}
+
+```{r setup, fig.cap='Experimental materials for this lab provided on your lab bench.', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/chem_aspects/Setup.jpg")
+```
+
+```{r materials, fig.cap='Additional experimental materials for this lab.', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/chem_aspects/materials.jpg")
 ```
 
 ## Test for Reducing sugars
@@ -26,7 +31,7 @@ knitr::include_graphics("./figures/chem_aspects/Heatblock.jpg")
 ### Experimental procedures
 1.	Turn on the 65 °C heat block (Figure \@ref(fig:heatblock)) by pushing the little black switch on the lower right side of the to "high". Rotate the white "high temperature adjust" button to number 2 to 3.
 2.	Turn on the 37 °C heat block by pushing the little black switch on the lower right side of the to "low". Rotate the white "low temperature adjust" button to number 3 to 4.
-1.	Obtain 7 plastic test tubes and a test tube rack.
+1.	Obtain 7 plastic test tubes and a test tube rack (Figure \@ref(fig:materials)).
 2.	Using a wax pencil,label each tube with a number (1 to 7).
 3.	Place the tubes from left (tube #1) to right (tube #7) in the first row of a test tube rack.
 4.	Add the test material each tube as indicated in Table \@ref(tab:sugar).
@@ -51,7 +56,7 @@ Table: (\#tab:sugar) Test for reducing sugars.
 4	 |2 ml apple juice   |	2 ml       |               |                     |
 5	 |2 ml starch        |	2 ml       |               |                     |
 6        |2 ml molasses      |	2 ml       |               |                     |
-7	 |2 ml sucrose	     |  2 ml        |               |                     |
+7	 |2 ml sucrose	     |  2 ml       |               |                     |
 
 
 ```{r exp1, fig.cap='Results from experiment 1. Compare to your results!', echo=FALSE, message=FALSE, warning=FALSE}
@@ -129,8 +134,12 @@ knitr::include_graphics("./figures/chem_aspects/Results_exp_3.jpg")
 ```
 
 ## Cleaning up
-1. Empty the contents of all plastic tubes into the labeled waste container (brown bottle) in the chemical fume hood.
+1. Empty the contents of all plastic tubes into the labeled waste container (brown bottle) in the chemical fume hood (Figure \@ref(fig:waste)).
 2. Discard the empty tubes in the regular waste basket.
+
+```{r waste, fig.cap='.', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/chem_aspects/waste.jpg")
+```
 
 ## Test for Lipids
 In biology, a [lipid](https://en.wikipedia.org/wiki/Lipid) is a substance of biological origin that is soluble in nonpolar solvents. It comprises a group of naturally occurring molecules that include fats, waxes, sterols, fat-soluble vitamins (such as vitamins A, D, E, and K), monoglycerides, diglycerides, triglycerides, and phospholipids. The main biological functions of lipids include storing energy, signaling, and acting as structural components of cell membranes. Lipids have applications in the cosmetic and food industries as well as in nanotechnology.
@@ -148,7 +157,7 @@ Although the term "lipid" is sometimes used as a synonym for fats, fats are a su
 6.	Allow the tube to stand and note that the two phases (oil and water) are no longer distinctly separated. Detergent is often termed an emulsifier. Its molecules are water-soluble on one end and lipid-soluble on the other. These surround small oil droplets, water-soluble end out, and allow the droplets to stay suspended in the water.
 
 ## Cleaning up
-Empty the contents of the glass tube into the labeled waste container (brown bottle) in the chemical fume hood. Discard the glass tube in the plastic container labeled "broken glass" in the chemical fume hood.
+Empty the contents of the glass tube into the labeled waste container (brown bottle) in the chemical fume hood. Discard the glass tube in the plastic container labeled "broken glass" in the chemical fume hood (Figure \@ref(fig:waste)).
 
 ## Test for organic and inorganic compounds (Demonstration)
 ### Experimental procedures
