@@ -14,7 +14,11 @@ Hydrogen peroxide is toxic. Cells therefore use catalase to protect themselves. 
 
 The first experiment will establish that our catalase works (positive control) and that our reagents are not contaminated (negative control).
 
+<<<<<<< HEAD
 Hydrogen peroxide will not spontaneously degrade at room temperature in the absence of enzyme. When catalase is added to hydrogen peroxide, the reaction will take place and the oxygen produced will lead to the formation of bubbles in the solution. The height of the bubbles above the solution will be our measure of enzyme activity (Figure \@ref(fig:contr)).
+=======
+Hydrogen peroxide will not spontaneously degrade at room temperature in the absence of enzyme. When catalase is added to hydrogen peroxide, the reaction will take place and the oxygen produced will lead to the formation of bubbles in the solution. The height of the bubbles above the solution will be our measure of enzyme activity (Figure \@ref(fig:catalase)).
+>>>>>>> 9effa54bf2f11ecc0708cffa6996c304b5138310
 
 ##  Positive and negative controls (Experiment 1)
 ### Experimental procedures
@@ -40,7 +44,11 @@ Tube # |	Height of bubbles (mm) |
 2      |
 3      |
 
+<<<<<<< HEAD
 ```{r contr, fig.cap='Results from experiment 1. Compare with your results!', echo=FALSE, message=FALSE, warning=FALSE}
+=======
+```{r catalase, fig.cap='Results from experiment 1. Compare to your results!', echo=FALSE, message=FALSE, warning=FALSE}
+>>>>>>> 9effa54bf2f11ecc0708cffa6996c304b5138310
 knitr::include_graphics("./figures/enzymes/catalase_contr.jpg")
 ```
 
@@ -62,8 +70,13 @@ Tube # |Height of bubbles (mm)  |
 2      ||
 3      ||
 
+<<<<<<< HEAD
 ```{r temp, fig.cap='Results from experiment 2. Compare with your results!', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/enzymes/catalase_temp.jpg")
+=======
+```{r catalase, fig.cap='Results from experiment 2. Compare to your results!', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/enzymes/catalase_contr.jpg")
+>>>>>>> 9effa54bf2f11ecc0708cffa6996c304b5138310
 ```
 
 ##  Effect of concentration on enzyme activity (Experiment 3)
@@ -91,7 +104,11 @@ Tube # |Height of bubbles (mm) |
 2      ||
 3      ||
 
+<<<<<<< HEAD
 ```{r conc, fig.cap='Results from experiment 3. Compare with your results!', echo=FALSE, message=FALSE, warning=FALSE}
+=======
+```{r catalase, fig.cap='Results from experiment 1. Compare to your results!', echo=FALSE, message=FALSE, warning=FALSE}
+>>>>>>> 9effa54bf2f11ecc0708cffa6996c304b5138310
 knitr::include_graphics("./figures/enzymes/catalase_conc.jpg")
 ```
 
@@ -122,6 +139,7 @@ Tube # |	Height of bubbles (mm) |
 5        |                       |
 6        |                       |
 
+<<<<<<< HEAD
 ```{r pH, fig.cap='Results from experiment 4. Compare with your results!', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/enzymes/catalase_ph.jpg")
 ```
@@ -157,6 +175,12 @@ ggplot(data=data) +
   labs(y = "Bubble height (mm)", x = "pH")
 ```
 
+=======
+```{r catalase, fig.cap='Results from experiment 3. Compare to your results!', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/enzymes/catalase_ph.jpg")
+```
+
+>>>>>>> 9effa54bf2f11ecc0708cffa6996c304b5138310
 ## Cleaning up
 1. Empty the contents of the plastic tubes into the labeled waste container (brown bottle) in the chemical fume hood.
 2. Discard the empty tubes and other waste in the regular waste basket.
