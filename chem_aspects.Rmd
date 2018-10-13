@@ -11,7 +11,6 @@ Carbohydrates are biomolecules consisting of carbon (C), hydrogen (H) and oxygen
 Lipids are substances of biological origin that are insoluble in water. Lipids comprise a group of naturally occurring molecules that include fats, waxes, sterols, fat-soluble vitamins (such as vitamins A, D, E, and K), monoglycerides, diglycerides, triglycerides, and phospholipids. The main biological functions of lipids include storing energy, signaling, and acting as structural components of cell membranes.
 
 Proteins are large biomolecules consisting of one or more long chains of amino acids linked by peptide bonds. Proteins perform a vast array of functions within organisms, including catalyzing metabolic reactions, DNA replication, responding to stimuli, and transporting molecules from one location to another. Proteins differ from one another primarily in their sequence of amino acids, which is dictated by the nucleotide sequence of their genes, and which usually results in protein folding into a specific three-dimensional structure that determines its activity.
-<<<<<<< HEAD
 
 ```{r setup, fig.cap='Experimental materials for this lab provided on your lab bench.', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/chem_aspects/Setup.jpg")
@@ -19,10 +18,6 @@ knitr::include_graphics("./figures/chem_aspects/Setup.jpg")
 
 ```{r materials, fig.cap='Additional experimental materials for this lab.', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/chem_aspects/materials.jpg")
-=======
-```{r setup, fig.cap='Experimental materials for this lab.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/chem_aspects/Setup.jpg")
->>>>>>> 9effa54bf2f11ecc0708cffa6996c304b5138310
 ```
 
 ## Test for Reducing sugars
@@ -36,11 +31,7 @@ knitr::include_graphics("./figures/chem_aspects/Heatblock.jpg")
 ### Experimental procedures
 1.	Turn on the 65 °C heat block (Figure \@ref(fig:heatblock)) by pushing the little black switch on the lower right side of the to "high". Rotate the white "high temperature adjust" button to number 2 to 3.
 2.	Turn on the 37 °C heat block by pushing the little black switch on the lower right side of the to "low". Rotate the white "low temperature adjust" button to number 3 to 4.
-<<<<<<< HEAD
 1.	Obtain 7 plastic test tubes and a test tube rack (Figure \@ref(fig:materials)).
-=======
-1.	Obtain 7 plastic test tubes and a test tube rack.
->>>>>>> 9effa54bf2f11ecc0708cffa6996c304b5138310
 2.	Using a wax pencil,label each tube with a number (1 to 7).
 3.	Place the tubes from left (tube #1) to right (tube #7) in the first row of a test tube rack.
 4.	Add the test material each tube as indicated in Table \@ref(tab:sugar).
@@ -65,11 +56,7 @@ Table: (\#tab:sugar) Test for reducing sugars.
 4	 |2 ml apple juice   |	2 ml       |               |                     |
 5	 |2 ml starch        |	2 ml       |               |                     |
 6        |2 ml molasses      |	2 ml       |               |                     |
-<<<<<<< HEAD
 7	 |2 ml sucrose	     |  2 ml       |               |                     |
-=======
-7	 |2 ml sucrose	     |  2 ml        |               |                     |
->>>>>>> 9effa54bf2f11ecc0708cffa6996c304b5138310
 
 
 ```{r exp1, fig.cap='Results from experiment 1. Compare to your results!', echo=FALSE, message=FALSE, warning=FALSE}
