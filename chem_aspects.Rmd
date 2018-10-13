@@ -137,7 +137,7 @@ knitr::include_graphics("./figures/chem_aspects/Results_exp_3.jpg")
 1. Empty the contents of all plastic tubes into the labeled waste container (brown bottle) in the chemical fume hood (Figure \@ref(fig:waste)).
 2. Discard the empty tubes in the regular waste basket.
 
-```{r waste, fig.cap='.', echo=FALSE, message=FALSE, warning=FALSE}
+```{r waste, fig.cap='Waste containers for sharps, liquids and broken glass in the fume hood.', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/chem_aspects/waste.jpg")
 ```
 
@@ -194,7 +194,6 @@ It is important to mention that the procedure for DNA extraction we are using is
 ```{r strawberry, fig.cap='Filtration of the strawberry homogenate.', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/chem_aspects/Strawberry_extract.jpg")
 ```
-
 
 ```{r dna, fig.cap='Precipitated strawberry DNA sticking to the tip of the glassrod.', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/chem_aspects/Strawberry_DNA.jpg")
