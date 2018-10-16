@@ -20,7 +20,8 @@ potato_juice <- tibble(Group = rep("d",3), pH = c(8.2,7.3,8.5), activity = c(13,
 lmod <- lm(pH ~ activity, data = data)
 predict(lmod, newdata = potato_juice)
 
-#plot 
+# Plot --------------------------------------------------------------------
+
 ggplot(data=data) +
   geom_point(mapping = aes(x = pH, y = activity, shape = Group, color = Group),
            size = 4, show.legend = FALSE) +
@@ -32,5 +33,4 @@ ggplot(data=data) +
   scale_x_continuous(breaks = seq(0, 14, 1)) +
   labs(y = "Bubble height (mm)", x = "pH") +
   theme(axis.text.x=element_text(family="sans"),axis.text.y=element_text(family="sans"))
-
 
