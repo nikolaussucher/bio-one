@@ -31,7 +31,7 @@ knitr::include_graphics("./figures/photosynthesis/photosynthesis.jpg")
 ### Experimental procedures
 1.  Select a fresh, crisp sprig of Elodea about 15 cm in length.
 2.  While the plant is still submerged, cut 2-3 mm from its base.
-3.  Place the sprig upside down in a test tube filled with 0.25% sodium bicarbonate. This is a buffer to absorb toxic materials evolved (i.e., that are released. Keeping the plant submerged, position a light source 1 foot away and adjust so the light shines directly on the plant.
+3.  Place the sprig upside down in a test tube filled with 0.3% sodium bicarbonate. This is a buffer to absorb toxic materials evolved (i.e., that are released. Keeping the plant submerged, position a light source 1 foot away and adjust so the light shines directly on the plant.
 4.  Place the test tube in a beaker of water as shown in Fig. \@ref(fig:photosynthesis) to prevent overheating the plant. Allow the system to stand 7-10 minutes, or until bubbles begin to appear regularly.
 5.  Count the bubbles produced each minute for a 5-minute period and average them. Record your findings in the table.
 6.  Move the light back 2 feet from the plant, wait 5 minutes, and repeat counting. Record your findings in Table \@ref(tab:intensity).
