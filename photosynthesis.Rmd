@@ -102,7 +102,7 @@ Table: (\#tab:absorption) Determination of the light absorption spectrum of dye 
 | 720          |      |     |     |      |    |
 | 740          |      |     |     |      |    |
 
-```{r apsorption, fig.cap='Normalized absorption of red, green and blue dye solutions. Compare these data with your own results.', echo=FALSE, message=FALSE, warning=FALSE}
+```{r absorption, fig.cap='Normalized absorption of red, green and blue dye solutions. Compare these data with your own results.', echo=FALSE, message=FALSE, warning=FALSE}
 	knitr::include_graphics("./figures/photosynthesis/absorption_result.svg")
 ```
 
