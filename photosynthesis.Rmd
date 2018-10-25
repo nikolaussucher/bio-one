@@ -56,7 +56,7 @@ In this experiment, we will study the effect of the color of light on the photos
 ### Experimental procedures
 1.	Select a fresh, crisp sprig of Elodea about 15 cm in length.
 2.	While the plant is still submerged, cut 2-3 mm from its base.
-3.	Place the sprig upside down in a test tube filled with 0.25% sodium bicarbonate. This is a buffer to absorb toxic materials evolved (i.e., that are released). Keeping the plant submerged, position a light source 1 foot away and adjust so the light shines directly on the plant.
+3.	Place the sprig upside down in a test tube filled with 0.3% sodium bicarbonate. This is a buffer to absorb toxic materials evolved (i.e., that are released). Keeping the plant submerged, position a light source 1 foot away and adjust so the light shines directly on the plant.
 4.	Place a colored filter between the test tube and the heat shield beaker and allow it to sit for 5 minutes.
 5.	Count bubbles for 5 minutes as in the previous experiment. Record your findings in Table \@ref(tab:color). Repeat steps 1 and 2 for each color filter available.
 
