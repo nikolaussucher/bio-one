@@ -85,12 +85,26 @@ The essential difference is that scalariform conjugation occurs between two fila
 ```{r spiro, fig.cap='Spirogyra.', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/protists/Spirogyra.jpg")
 ```
+
 ##  View Prepared Slides
-###	Amoeba proteus
 
-###	Paramecium 4 types of protista
+###	Amoeba proteus (Figure \@ref(fig:amoebaprepared))
 
-###	Paramecium caudatum
+```{r amoebaprepared, fig.cap='Amoeba proteus.', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/protists/Amoeba_proteus_prepared.jpg")
+```
+
+###	Paramecium 4 types of protista (Figure \@ref(fig:fourtypes))
+
+```{r fourtypes, fig.cap='Paramecia and other protists.', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/protists/Four_types_protista.jpg")
+```
+
+###	Paramecium caudatum (Figure \@ref(fig:parameciumprepared))
+
+```{r parameciumprepared, fig.cap='Paramecium.', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/protists/Paramecium_prepared.jpg")
+```
 
 ###	Paramecium in conjugation (Figure \@ref(fig:conjugation))
 
@@ -98,9 +112,18 @@ knitr::include_graphics("./figures/protists/Spirogyra.jpg")
 knitr::include_graphics("./figures/protists/paramecium_conjugation.jpg")
 ```
 
-###	Euglena
+###	Euglena (Figure \@ref(fig:euglenaprepared))
 
-###	Dinoflagellates
+```{r euglenaprepared, fig.cap='Euglena.', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/protists/Euglena_prepared.jpg")
+```
+
+###	Dinoflagellate (Figure \@ref(fig:dinoflagellateprepared))
+
+```{r dinoflagellateprepared, fig.cap='Dinoflagellates.', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/protists/Dinoflagellates_prepared.jpg")
+```
+
 
 ###	Ceratium (Figure \@ref(fig:ceratium))
 
@@ -108,7 +131,8 @@ knitr::include_graphics("./figures/protists/paramecium_conjugation.jpg")
 knitr::include_graphics("./figures/protists/ceratium.jpg")
 ```
 
-###	Peridinium (dinoflagellate)
+###	Peridinium (dinoflagellate) 
+
 
 ###	Foraminifera
 [*Foraminifera*](https://en.wikipedia.org/wiki/Foraminifera) (Figure \@ref(fig:foraminifera); Latin meaning hole bearers; informally called "forams") are members of a phylum or class of amoeboid protists characterized by: streaming granular ectoplasm for catching food and other uses; and commonly an external shell (called a "test") of diverse forms and materials. Most foraminifera are marine, the majority of which live on or within the seafloor sediment (i.e., are benthic), while a smaller variety float in the water column at various depths (i.e., are planktonic). These shells are commonly made of calcium carbonate (CaCO~3~) or agglutinated sediment particles. Over 50,000 species are recognized, both living (10,000) and fossil (40,000).
@@ -141,9 +165,17 @@ knitr::include_graphics("./figures/protists/gambiense.jpg")
 ```
 
 ###	Plasmodium vivax
-[*Plasmodium vivax*](https://en.wikipedia.org/wiki/Plasmodium_vivax) is a protozoal parasite and a human pathogen. This parasite is the most frequent and widely distributed cause of recurring (benign tertian) malaria, P. vivax is one of the five species of malaria parasites that commonly infect humans. Although it is less virulent than Plasmodium falciparum, the deadliest of the five human malaria parasites, P. vivax malaria infections can lead to severe disease and death, often due to a pathologically enlarged spleen.  P. vivax is carried by the female Anopheles mosquito, since it is only the female of the species that bites.
+[*Plasmodium vivax*](https://en.wikipedia.org/wiki/Plasmodium_vivax) (Figure \@ref(fig:plasmodium)) is a protozoal parasite and a human pathogen. This parasite is the most frequent and widely distributed cause of recurring (benign tertian) malaria, P. vivax is one of the five species of malaria parasites that commonly infect humans. Although it is less virulent than Plasmodium falciparum, the deadliest of the five human malaria parasites, P. vivax malaria infections can lead to severe disease and death, often due to a pathologically enlarged spleen.  P. vivax is carried by the female Anopheles mosquito, since it is only the female of the species that bites.
 
-###	Mixed green algae
+```{r plasmodium, fig.cap='Plasmodium vivax merozoites and trophozoites (ring stage).', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/protists/Plasmodium_vivax.jpg")
+```
+
+###	Mixed green algae (Figure \@ref(fig:mixedalgae))
+
+```{r mixedalgae, fig.cap='Various green algae.', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/protists/Mixed_green_algae.jpg")
+```
 
 ###	Chlamydomonas (Figure \@ref(fig:chlamydomonas))
 
@@ -169,11 +201,19 @@ knitr::include_graphics("./figures/protists/volvox_dead.jpg")
 knitr::include_graphics("./figures/protists/volvox_sex.jpg")
 ```
 
-###	Spirogyra
+###	Spirogyra (Figure \@ref(fig:conjugation))
 
-###	Oedogonium zygospores
+```{r spirogyraprepared, fig.cap='Spirogyra', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/protists/Spirogyra_prepared.jpg")
+```
 
-###	Oedogonium macrandous
+###	Oedogonium zoospores
+
+###	Oedogonium macrandous (Figure \@ref(fig:conjugation))
+
+```{r oedogoniumprepared, fig.cap='Oedogonium.', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/protists/Oedogonium_macrandrous.jpg")
+```
 
 ###	Fucus male and female conceptacle
 [*Fucus*](https://en.wikipedia.org/wiki/Fucus) is a genus of brown algae found in the intertidal zones of rocky seashores almost throughout the world. It has a relatively simple life cycle and produce only one type of thallus which grows to a maximum size of 2 m.
@@ -194,7 +234,12 @@ knitr::include_graphics("./figures/protists/female_fucus.jpg")
 ```
 
 ###	*Polysiphonia*
-[*Polysiphonia*](https://en.wikipedia.org/wiki/Polysiphonia) is a genus of filamentous red algae with about 19 species on the coasts of the British Isles and about 200 species worldwide.
+[*Polysiphonia*](https://en.wikipedia.org/wiki/Polysiphonia) (Figure \@ref(fig:polysiphonia))
+is a genus of filamentous red algae with about 19 species on the coasts of the British Isles and about 200 species worldwide.
+
+```{r polysiphonia, fig.cap='Polysiphonia.', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/protists/Polysiphonia_prepared.jpg")
+```
 
 ###	*Stemonitis*
 [*Stemonitis*](https://en.wikipedia.org/wiki/Stemonitis) (Figure \@ref(fig:stemonitis)) is a distinctive genus of slime moulds found throughout the world (except Antarctica). They are characterized by the tall brown sporangia, supported on slender stalks, which grow in clusters on rotting wood.
