@@ -134,7 +134,7 @@ Blood Type        |         |         |         |         |
 ## Review Questions
 1.  What is a gene?
 2.  What is an allele?
-3.  What are dominant and recessive alleles?
+3.  What are dominant and recessive traits?
 4.  What is the genotype of an organism?
 5.  What is a trait?
 6.  What is the phenotype of an organism?
