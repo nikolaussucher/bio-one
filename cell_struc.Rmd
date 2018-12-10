@@ -81,7 +81,7 @@ knitr::include_graphics("./figures/cell_struc/blood.jpg")
 ```
 
 ## Review Questions
-1. What the main structural features eukaryotic cells?
+1. What are the main structural features of eukaryotic cells?
 2. What distinguishes animal and plant cells?
 3. What are mitochondria?
 4. What are chloroplasts?
