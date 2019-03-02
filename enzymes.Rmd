@@ -132,7 +132,7 @@ Tube # |	Height of bubbles (mm) |
 knitr::include_graphics("./figures/enzymes/catalase_ph.jpg")
 ```
 
-(ref:pH) Catalase activity is dependent on pH. The data shown in this figure were obtained by three groups of students during a previous laboratory session. The green triangles represent the data from the experimental results shown in Figure \@ref(fig:pH).
+(ref:pH) Catalase activity is dependent on pH. The data shown in this figure were obtained by three groups of students during a previous laboratory session. The triangles represent the data from the experimental results shown in Figure \@ref(fig:pH).
 
 ```{r activity, fig.cap='(ref:pH)', out.width='75%', echo=FALSE, message=FALSE, warning=FALSE}
 
