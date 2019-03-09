@@ -18,10 +18,17 @@ knitr::include_graphics("./figures/cell_struc/elodea.jpg")
 
 ## Onion leaf epidermal cells
 ### Experimental procedures
-1.	Peel a very thin layer from the concave side of a piece of onion, and mount in water. Make sure the membrane lays very flat and is not wrinkled or folded on your slide.
-2.	Dim the light and find the nucleus, which is much easier to see here because there are no chloroplasts (Figure \@ref(fig:onion)). Close examination should reveal one or more nucleoli in the nucleus.
-3.	Note the movement of small particles in the nearly trans- parent cytoplasm. This is Brownian movement, which we will study in more detail in another exercise.
+1.  Peel a thin layer of cells from the concave side of a piece of onion as shown in Figure \@ref(fig:onionpeel).
+2.  Put the onion layer onto a new slide. Make sure the onion lays very flat and is not wrinkled or folded on your slide.
+2.  You may use a razor blade and cut both sides of the onion so that you are left with a small rectangular piece of onion in the center of your slide.
+3.  Add a drop of water on top of the small piece of onion in the center of your slide.
+4.  Add a coverslip on top.
+2.  Dim the light and find the nucleus, which is much easier to see here because there are no chloroplasts (Figure \@ref(fig:onion)). Close examination should reveal one or more nucleoli in the nucleus.
+3.  Note the movement of small particles in the nearly transparent cytoplasm. This is Brownian movement, which we will study in more detail in another exercise.
 
+```{r onionpeel, fig.cap='Peel a thin layer of cells off the convave side of an onion slice.', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/cell_struc/onionpeel.jpg")
+```
 
 ```{r onion, fig.cap='Onion epidermis.', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/cell_struc/onion.jpg")
