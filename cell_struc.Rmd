@@ -55,6 +55,11 @@ Potatoes are stems full of starch that is stored within the cells in colorless p
 4.	Observe the potato slice under the microscope.
 4.	Iodine stains starch a purple or blue-black color.
 
+```{r potato, fig.cap='Amyloblasts in potato cells. The starch inside of the amyloplasts is stained blue-black by the iodine solution.', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/cell_struc/potato.jpg")
+```
+
+
 ## Cleaning up
 Discard the used glass slides in the container marked "Broken glass" in the fume hood.
 
