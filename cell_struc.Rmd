@@ -45,7 +45,7 @@ knitr::include_graphics("./figures/cell_struc/carot.jpg")
 ```
 
 ## Potato cells
-Potatoes are stems full of starch that is stored within the cells in colorless plastids called amyloplasts.
+Potatoes are stems full of starch that is stored within the cells in colorless plastids called amyloplasts (Figure \@ref(fig:potato)).
 
 ### Experimental procedures
 1.	Cut a very thin wedge-shaped sliver of potato.
