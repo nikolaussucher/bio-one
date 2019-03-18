@@ -29,44 +29,77 @@ knitr::include_graphics("./figures/photosynthesis/photosynthesis.jpg")
 ```
 
 ### Experimental procedures
+1.  Before you begin with the actual experiment, write down in your own words the hypothesis for this experiment:
+
+    _____________________________________________________________________________
+
+    _____________________________________________________________________________
+
+    _____________________________________________________________________________
+
+1.  Obtain a cylindrical test tube.
+1.  Fill  test tube with 0.3% sodium bicarbonate.
 1.  Select a fresh, crisp sprig of Elodea about 15 cm in length.
 2.  While the plant is still submerged, cut 2-3 mm from its base.
-3.  Place the sprig upside down in a test tube filled with 0.3% sodium bicarbonate. This is a buffer to absorb toxic materials evolved (i.e., that are released. Keeping the plant submerged, position a light source 1 foot away and adjust so the light shines directly on the plant.
-4.  Place the test tube in a beaker of water as shown in Fig. \@ref(fig:photosynthesis) to prevent overheating the plant. Allow the system to stand 7-10 minutes, or until bubbles begin to appear regularly.
+3.  Place the sprig upside down into the test tube filled with sodium bicarbonate. The sodium bicarbonate will absorb anu toxic materials that are released by the plant during photosynthesis.
+1.  Keeping the plant submerged, position a light source 10 cm away and adjust so the light shines directly on the plant.
+4.  Place the test tube in a beaker of water as shown in Fig. \@ref(fig:photosynthesis) to prevent overheating the plant. 1. 1.  Allow the system to stand 7-10 minutes, or until bubbles begin to appear regularly.
 5.  Count the bubbles produced each minute for a 5-minute period and average them. Record your findings in the table.
-6.  Move the light back 2 feet from the plant, wait 5 minutes, and repeat counting. Record your findings in Table \@ref(tab:intensity).
-7.  Move the light back to 3 feet from the plant and repeat counting the bubbles.
+6.  Move the light back 20 cm from the plant, wait 5 minutes, and repeat counting. Record your findings in Table \@ref(tab:intensity).
+7.  Move the light back 40 cm from the plant and repeat counting the bubbles.
+1.  When you have finished recording your data, calculate the average number of bubbles for each 5 minute period and enter the result into the table.
+1.  Do the data support or contradict your hypothesis?
 
-Table: (\#tab:intensity) Intensity of light.
 
-Distance of light source/Bubbles per minute|1  | 2  |   3| 4  | 5  |Average
-|:-----------------------|:--|:---|:---|:---|:---|:-----:|
-1 foot                   |   |    |    |    |    |       |
-2 feet                   |   |    |    |    |    |       |
-3 feet                   |   |    |    |    |    |       |
+Table: (\#tab:intensity) Experimental data for the intensity of light experiment.
+
+
+|Distance of light source/Bubbles per minute|1  | 2  |   3| 4  | 5  |Average|
+|:----------------------------------------- |:--|:---|:---|:---|:---|:-----:|
+|10 cm                                      |   |    |    |    |    |       |
+|20 cm                                      |   |    |    |    |    |       |
+|40 cm                                      |   |    |    |    |    |       |
 
 ```{r bubbles, fig.cap='Appearance of bubbles indicates active photosynthesis.', echo=FALSE, message=FALSE, warning=FALSE}
 	knitr::include_graphics("./figures/photosynthesis/photosynthesis_bubbles.jpg")
 ```
 
-
 ## Color of light
 In this experiment, we will study the effect of the color of light on the photosynthetic activity of *Elodea canadensis*. We will use filter to expose the plant to light of only a limited range of wavelengths. We will again count the emerging oxygen bubbles as an indicator of the photosynthetic activity of the plant.
 
 ### Experimental procedures
-1.	Select a fresh, crisp sprig of Elodea about 15 cm in length.
-2.	While the plant is still submerged, cut 2-3 mm from its base.
-3.	Place the sprig upside down in a test tube filled with 0.3% sodium bicarbonate. This is a buffer to absorb toxic materials evolved (i.e., that are released). Keeping the plant submerged, position a light source 1 foot away and adjust so the light shines directly on the plant.
-4.	Place a colored filter between the test tube and the heat shield beaker and allow it to sit for 5 minutes.
-5.	Count bubbles for 5 minutes as in the previous experiment. Record your findings in Table \@ref(tab:color). Repeat steps 1 and 2 for each color filter available.
+1.  Before you begin with the actual experiment, write down in your own words the hypothesis for this experiment:
 
+    _____________________________________________________________________________
+
+    _____________________________________________________________________________
+
+    _____________________________________________________________________________
+
+1.  Empty the test tube that you used in the previous experiment.
+1.  Fill the test tube with fress 0.3% sodium bicarbonate.
+1.  Select a fresh, crisp sprig of Elodea about 15 cm in length.
+2.  While the plant is still submerged, cut 2-3 mm from its base.
+1.  Place the Elodea sprig into the test tube and submerge it completely in the bicarbonate.
+4.  Place the red colored filter between the test tube and the heat shield beaker and allow it to sit for 5 minutes.
+5.  Count bubbles for 5 minutes as in the previous experiment. Record your findings in Table \@ref(tab:color).
+1.  Remove the color filter and expose the plant to white light. Count bubbles again for 5 minutes in 1 minute intervals. Record your findings in Table \@ref(tab:color).
+4.  Place the green colored filter between the test tube and the heat shield beaker and allow it to sit for 5 minutes.
+5.  Count bubbles for 5 minutes. Record your findings in Table \@ref(tab:color).
 Table: (\#tab:color) Color of light.
+1.  Remove the color filter and expose the plant to white light. Count bubbles again for 5 minutes in 1 minute intervals. Record your findings in Table \@ref(tab:color).
+1.  Do the data support or contradict your hypothesis?
+
+
+Table: (\#tab:color) Experimental data for the color of light experiment.
+
 
 Color of filter/Bubbles per minute|1  | 2  |   3| 4  | 5 |Average
-|:-----------------------|:--|:---|:---|:---|:---|:-----:|
-| blue                   |   |    |    |    |    |       |
-| orange                 |   |    |    |    |    |       |
-| red                    |   |    |    |    |    |       |
+|:--------------------------------|:--|:---|:---|:---|:---|:-----:|
+| red                             |   |    |    |    |    |       |
+| no filter                       |   |    |    |    |    |       |
+| green                           |   |    |    |    |    |       |
+| no filter                       |   |    |    |    |    |       |
 
 ## Determination of the light absorption spectrum of dye solutions
 
@@ -77,6 +110,14 @@ In this experiment, we will use a [spectrophotometer](https://en.wikipedia.org/w
 ```
 
 ### Experimental procedures
+1.  Before you begin with the actual experiment, write down in your own words the hypothesis for this experiment:
+
+    _____________________________________________________________________________
+
+    _____________________________________________________________________________
+
+    _____________________________________________________________________________
+
 1.  Take six cuvettes.
 2.  Fill one cuvette with water.
 3.  Fill each of the remaining five cuvettes with one of the color solutions listed in Table \@ref(tab:absorption).
@@ -86,21 +127,35 @@ In this experiment, we will use a [spectrophotometer](https://en.wikipedia.org/w
 7.  Once the measurements are completed, write down the absorption number for each dye and wavelength.
 8.  Use a spreadsheet program to graph your results.
 9.  Compare your curves with the data shown in Figure \@ref(fig:absorption).
+1.  Do the data support or contradict your hypothesis?
 
 ```{r cuvettes, fig.cap='Cuvettes placed in the spectrophotometer.', echo=FALSE, message=FALSE, warning=FALSE}
 	knitr::include_graphics("./figures/photosynthesis/cuvettes.jpg")
 ```
 
-Table: (\#tab:absorption) Determination of the light absorption spectrum of dye solutions.
+Table: (\#tab:absorption) Experimental data of the determination of the light absorption spectrum of dye solutions.
 
-|Wavelength (nm)|Purple|Blue |Green|Yellow|Red|
-|:------------:|:-----|:----|:----|:-----|:---|
-| 380          |      |     |     |      |    |
-| 400          |      |     |     |      |    |
-| 420          |      |     |     |      |    |
-| ...          |      |     |     |      |    |
-| 720          |      |     |     |      |    |
-| 740          |      |     |     |      |    |
+|Wavelength (nm)|Purple|Blue |Green|Yellow|Red |
+|:-------------:|:-----|:----|:----|:-----|:---|
+| 380           |      |     |     |      |    |
+| 400           |      |     |     |      |    |
+| 420           |      |     |     |      |    |
+| 440           |      |     |     |      |    |
+| 460           |      |     |     |      |    |
+| 480           |      |     |     |      |    |
+| 500           |      |     |     |      |    |
+| 520           |      |     |     |      |    |
+| 540           |      |     |     |      |    |
+| 560           |      |     |     |      |    |
+| 580           |      |     |     |      |    |
+| 600           |      |     |     |      |    |
+| 620           |      |     |     |      |    |
+| 640           |      |     |     |      |    |
+| 660           |      |     |     |      |    |
+| 680           |      |     |     |      |    |
+| 700           |      |     |     |      |    |
+| 720           |      |     |     |      |    |
+| 740           |      |     |     |      |    |
 
 ```{r absorption, fig.cap='Normalized absorption of red, green and blue dye solutions. Compare these data with your own results.', echo=FALSE, message=FALSE, warning=FALSE}
 	knitr::include_graphics("./figures/photosynthesis/absorption_result.svg")
@@ -110,7 +165,7 @@ Table: (\#tab:absorption) Determination of the light absorption spectrum of dye 
 [Chromatography](https://en.wikipedia.org/wiki/Chromatography) is a laboratory technique for the separation of a mixture. The mixture is dissolved in a fluid called the mobile phase, which carries it through a structure holding another material called the stationary phase. The various constituents of the mixture travel at different speeds, causing them to separate. The separation is based on differential partitioning between the mobile and stationary phases. Subtle differences in a compound's partition coefficient result in differential retention on the stationary phase and thus affect the separation.
 Chromatography may be preparative or analytical. The purpose of preparative chromatography is to separate the components of a mixture for later use and is thus a form of purification. Analytical chromatography is done normally with smaller amounts of material and is for establishing the presence or measuring the relative proportions of analytes in a mixture.
 
-In this experiment, we separate a mixture of food dyes (dark greenish liquid. The mobile phase (separation buffer) is 1% NaCl in water, the stationary phase is chromatography paper.
+In this experiment, we separate a mixture of food dyes (a dark brown liquid). The mobile phase (separation buffer) is 1% NaCl in water, the stationary phase is chromatography paper.
 
 ### Experimental procedures
 1.  Obtain a small beaker.
