@@ -53,12 +53,21 @@ knitr::include_graphics("./figures/enzymes/catalase_contr.jpg")
 ##  Effect of temperature on enzyme activity (Experiment 2)
 ### Experimental procedures
 
+1.  Before you begin with the actual experiment, write down in your own words the hypothesis for this experiment:
+
+    _____________________________________________________________________________
+
+    _____________________________________________________________________________
+
+    _____________________________________________________________________________
+
 1.	Obtain and label three tubes.
 2.	Add 1 ml of potato juice (catalase) to each tube.
 3.	Place tube 1 in the refrigerator, tube 2 in a 37 °C (Celsius) heat block, and tube 3 in a 97 °C heat block for 15 minutes.
 4.	Remove the tubes with the potato juice (catalase) from the refrigerator and heat blocks and immediately add 4 ml hydrogen peroxide to each tube.
 5.	Swirl well to mix and wait 20 seconds.
 6.	Measure the height of the bubble column (in millimeters) in each tube and record your observations in Table \@ref(tab:temp).
+1.  Do the data support or contradict your hypothesis?
 
 Table: (\#tab:temp) Effect of temperature on enzyme activity.
 
@@ -75,6 +84,14 @@ knitr::include_graphics("./figures/enzymes/catalase_temp.jpg")
 ##  Effect of concentration on enzyme activity (Experiment 3)
 ### Experimental procedures
 
+1.  Before you begin with the actual experiment, write down in your own words the hypothesis for this experiment:
+
+    _____________________________________________________________________________
+
+    _____________________________________________________________________________
+
+    _____________________________________________________________________________
+
 1.	Obtain and label three tubes.
 2.	Then to **Tube 1**
     * Add 1 ml of water.
@@ -88,6 +105,7 @@ knitr::include_graphics("./figures/enzymes/catalase_temp.jpg")
     * Add 3 ml of potato juice (catalase).
     * Add 4 ml of hydrogen peroxide. Swirl well to mix and wait at least 20 seconds.
     * Measure the height of the bubble column (in millimeters) and record your observations in Table \@ref(tab:concentration).
+1.  Do the data support or contradict your hypothesis?
 
 Table: (\#tab:concentration) Effect of concentration on enzyme activity.
 
@@ -104,6 +122,14 @@ knitr::include_graphics("./figures/enzymes/catalase_conc.jpg")
 ##  Effect of pH on enzyme activity (Experiment 4)
 ### Experimental procedures
 
+1.  Before you begin with the actual experiment, write down in your own words the hypothesis for this experiment:
+
+    _____________________________________________________________________________
+
+    _____________________________________________________________________________
+
+    _____________________________________________________________________________
+
 1.	Obtain 6 tubes and label each tube with a number from 1 to 6.
 2.	Place the tubes from left (tube #1) to right (tube #6) in the first row of a test tube rack.
 2.	Add to 1 ml of potato juice (catalase) to each tube.
@@ -116,6 +142,7 @@ knitr::include_graphics("./figures/enzymes/catalase_conc.jpg")
 8.	Add 4 ml of hydrogen peroxide to each of the six tubes.
 9.	Swirl each tube well to mix and wait at least 20 seconds.
 9.	Measure the height of the bubble column (in millimeters) in each tube and record your observations in Table \@ref(tab:pH).
+1.  Do the data support or contradict your hypothesis?
 
 Table: (\#tab:pH) Effect of pH on enzyme activity.
 
