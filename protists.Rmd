@@ -131,7 +131,7 @@ knitr::include_graphics("./figures/protists/Dinoflagellates_prepared.jpg")
 knitr::include_graphics("./figures/protists/ceratium.jpg")
 ```
 
-###	Peridinium (dinoflagellate) 
+###	Peridinium (Figure \@ref(fig:Peridinium))
 
 ```{r peridinium, fig.cap='Peridinium, a dinoflagellate.', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/protists/Peridinium.jpg")
@@ -204,19 +204,20 @@ knitr::include_graphics("./figures/protists/volvox_dead.jpg")
 knitr::include_graphics("./figures/protists/volvox_sex.jpg")
 ```
 
-###	Spirogyra (Figure \@ref(fig:conjugation))
+###	Spirogyra (Figure \@ref(fig:spirogyraprepared))
 
-```{r spirogyraprepared, fig.cap='Spirogyra', echo=FALSE, message=FALSE, warning=FALSE}
+```{r spirogyraprepared, fig.cap='Spirogyra', echo=FALSE, message=FALSE, war qqning=FALSE}
 knitr::include_graphics("./figures/protists/Spirogyra_prepared.jpg")
 ```
 
-###	Oedogonium zoospores
+###	Oedogonium zoospores (Figure \@ref(fig:oedogoniumzoospores)
+
 
 ```{r oedogoniumzoospores, fig.cap='Oedogonium zoospores.', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/protists/Oedogonium_zoospore_formation.jpg")
 ```
 
-###	Oedogonium macrandous (Figure \@ref(fig:conjugation))
+###	Oedogonium macrandous (Figure \@ref(fig:oedogoniumprepared))
 
 ```{r oedogoniumprepared, fig.cap='Oedogonium.', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/protists/Oedogonium_macrandrous.jpg")
