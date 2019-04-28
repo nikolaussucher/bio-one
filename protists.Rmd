@@ -133,7 +133,7 @@ knitr::include_graphics("./figures/protists/ceratium.jpg")
 
 ###	Peridinium (dinoflagellate) 
 
-```{r peridinium, fig.cap='Peridinium , a dinoflagellate.', echo=FALSE, message=FALSE, warning=FALSE}
+```{r peridinium, fig.cap='Peridinium, a dinoflagellate.', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/protists/Peridinium.jpg")
 ```
 
