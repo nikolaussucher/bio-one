@@ -133,6 +133,9 @@ knitr::include_graphics("./figures/protists/ceratium.jpg")
 
 ###	Peridinium (dinoflagellate) 
 
+```{r peridinium, fig.cap='Peridinium , a dinoflagellate.', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/protists/Peridinium.jpg")
+```
 
 ###	Foraminifera
 [*Foraminifera*](https://en.wikipedia.org/wiki/Foraminifera) (Figure \@ref(fig:foraminifera); Latin meaning hole bearers; informally called "forams") are members of a phylum or class of amoeboid protists characterized by: streaming granular ectoplasm for catching food and other uses; and commonly an external shell (called a "test") of diverse forms and materials. Most foraminifera are marine, the majority of which live on or within the seafloor sediment (i.e., are benthic), while a smaller variety float in the water column at various depths (i.e., are planktonic). These shells are commonly made of calcium carbonate (CaCO~3~) or agglutinated sediment particles. Over 50,000 species are recognized, both living (10,000) and fossil (40,000).
@@ -208,6 +211,10 @@ knitr::include_graphics("./figures/protists/Spirogyra_prepared.jpg")
 ```
 
 ###	Oedogonium zoospores
+
+```{r oedogoniumzoospores, fig.cap='Oedogonium zoospores.', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/protists/Oedogonium_zoospore_formation.jpg")
+```
 
 ###	Oedogonium macrandous (Figure \@ref(fig:conjugation))
 
