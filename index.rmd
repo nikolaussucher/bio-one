@@ -5,7 +5,7 @@ title: "Laboratory Manual For SCI103
 author: ["Nikolaus Sucher"]
 description: "This laboratory manual will accompany you during your laboratory for Biology I."
 #url: "https://myrcc.rcc.mass.edu/ICS/104_lab_manual/index.html"
-github-repo: nikolaussuchert/bio-one
+github-repo: nikolaussucher/bio-one
 twitter-handle: NikolausSucher
 cover-image: cover.png
 site: bookdown::bookdown_site
