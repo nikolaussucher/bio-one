@@ -189,7 +189,7 @@ The first step of DNA extraction from live or dead cells is to lyse or break ope
 It is important to mention that the procedure for DNA extraction we are using is really a procedure for total nucleic acid extraction. However, much of the RNA extracted is cut by ribonucleases (enzymes that cut RNA) that come in contact with the RNA when the cells are broken open.
 
 ### Experimental procedures
-1.	Place 2 to 4 strawberries in a zip lock bag.  Gently, mash up the fruit by pushing the bags with your hand against the lab bench. This will mechanically breakdown the cell wall.
+1.	Place 2 to 4 strawberries in a zip lock bag.  Gently, mash up the fruit by pushing the bag with your hand against the lab bench. This will mechanically breakdown the cell wall.
 2.	Add 15 ml of the extraction buffer to the bag. Mix and mash again for one minute (chemical portion of the extraction procedure to lyse the cell membranes to release the DNA).
 3.	Filter the homogenate using cheesecloth (Figure \@ref(fig:strawberry)). This step removes cell organelles, broken cell walls, membrane fragments, and other cell debris.
 
