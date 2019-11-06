@@ -1,4 +1,4 @@
-# bio-one
+# Laboratory Manual for Biology I
 Development of an open source  open educational resource laboratory manual for biology I
 
 This is an open source, open educational resource (OER) laboratory manual that I am  developing for the SCI104 Biology I course at [Roxbury Community College](http://www.rcc.mass.edu) in Boston, Massachusetts. This introductory course focuses on organismal biology. A [second manual](https://github.com/nikolaussucher/bio-one) is under development for the SCI103 Biology I course that is focused on the cellular and molecular aspects of biology.
