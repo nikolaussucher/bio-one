@@ -1,7 +1,7 @@
 _bookdown_files
 _book
-# pdf
-bio_i_cover.pdf
+main.pdf
+#       :wbio_i_cover.pdf
 *.swp
 *.*~
 .*~
