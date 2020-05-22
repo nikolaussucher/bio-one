@@ -1,5 +1,7 @@
 # The Microscope
 
+In this laboratory session, you will be introduced to the microscope, its parts and its use. While you cannot practice to use the microscope in person, careful study of this chapter will make it easier to do so when you can come back to the lab eventually.
+
 A [microscope](https://en.wikipedia.org/wiki/Microscope) (from the Ancient Greek: mikrós, "small" and skopeîn, "to look" or "see") is an instrument used to see objects that are too small to be seen by the naked eye. Microscopic means invisible to the eye unless aided by a microscope.
 
 There are many types of microscopes, and they may be grouped in different ways. One way is to describe the way the instruments interact with a sample to create images, either by sending a beam of light or electrons to a sample in its optical path, or by scanning across, and a short distance from, the surface of a sample using a probe. The most common microscope (and the first to be invented) is the [optical microscope](https://en.wikipedia.org/wiki/Optical_microscope), which uses light to pass through a sample to produce an image.
@@ -34,69 +36,9 @@ The stage moves up and down for focus. Always start with the lowest magnificatio
 knitr::include_graphics("./figures/microscope/condenser.jpg")
 ```
 
-We have prepared a number of videos that introduce our microscopes to you and also demonstrate how you can capture images of the slides that you are viewing and transfer them to your own equipment.
+Now, please watch the [following video](https://youtu.be/SUo2fHZaZCU) and see how it compares to what you have just read:
 
-## How to turn on the microscope
-The tablets and microscopes must be turned on in a specific order:
-
-1.	Microscope must be plugged in. If already plugged in, proceed to step 3.
-2.	Motic logo will appear on tablet. After a few seconds, the charging symbol appears.
-3.	Press and hold the power button on the tablet for 6 seconds.
-4.	Motic symbol will appear again and tablet will start up.
-5.	Turn on microscope using the switch on the lower right side.
-
-## View Prepared Slides
-
-1.	Get a white slide box.
-2.	Clean all of the exposed lenses with special lens paper. Do not use paper towels, Kimwipes®, or cloth as this will scratch the lenses. If the view through the microscope becomes blurred, additional cleaning with lens paper may be necessary. Use alcohol pads if necessary.
-3.	Make sure that the low power objective is clicked into position.
-4.	Move the oculars as far apart from each other as possible then look through them with
-both eyes open. You will see two non-overlapping regions of light. Push the oculars slowly towards each other until you see one circle of light.
-5.	Always use both eyes when you look at slides. This will avoid eye strain and headaches.
-6.	Get the slide labelled "Letter e" (Figure \@ref(fig:letter)) from the slide box.
-7.	Place the slide (coverslip up) on the stage and center the specimen over the opening in the stage.
-8.	Always start with the low power (4×) objective in place.
-9.	While looking through the ocular, use the coarse adjustment knob to slowly move the stage upward until the specimen comes into focus. If it does not, check to see that the material is centered on the stage, lower the stage, and try again.
-10.	Using the fine adjustment knob, obtain a sharp focus.
-11.	To increase the magnification, be sure the area you wish to examine specifically is in the center of the field; then, watching from the side to be sure that the objective clears the slide, turn the nose-piece until the next higher power objective clicks into position. The material now should be in view and should require only slight focusing with the fine adjustment. Never focus with the coarse adjustment under high power.
-12.	What happens when you increase the magnification?
-13.	Before removing the slide, always return the microscope to low power and turn the coarse adjustment knob until the stage is moved all the way down.
-14. View  the computer chip slide (Figure \@ref(fig:chip)).
-15. View the colored threads slide (Figure \@ref(fig:threads)).
-16. Which thread is at the bottom, in the middle, on top?
-17. Depth perception requires that a slightly different angle of an object is seen by the left and right eye. This happens because of the horizontal separation parallax of the eyes. If an object is far away, the disparity of that image falling on both retinas will be small. If the object is close or near, the disparity will be large. The microscope presents the same view to both eyes. Therefore, the only way to answer the above question is to change the focus of the image and observe what happens: when you move the stage upwards, to bring the slide closer to the objective, the thread that is on top will come into focus first, the middle one second and the bottom one last. Try it and write down your answer!
-    * Bottom thread: __________
-    * Middle thread: __________
-    * Top thread: __________
-18. View the stage micrometer slide (Figure \@ref(fig:scale)).
-19.	What is the unit of this scale?
-20. What is the distance between 1.0 and 1.5 in meters?
-21. How many subdivisions can you distinguish between 0 and 0.1?
-22. What is the distance in meters between the smallest subdivision?
-23.	View the blood smear slide (Figure \@ref(fig:smear)).
-24.	Which cells are red blood cells? Mark with an arrow and label it "RBC".
-25.	Which cells are white blood cells? Mark with an arrow and label it "WBC".
-26.	Return the slides to the slide boxes and the slide boxes to the bench where you picked it up.
-
-```{r letter, fig.cap='A printed letter.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/microscope/Letter_e.jpg")
-```
-
-```{r chip, fig.cap='Close-up view of an electronic chip.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/microscope/Chip.jpg")
-```
-
-```{r threads, fig.cap='Which thread is on top, in the middle, at the bottom?', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/microscope/Threads.jpg")
-```
-
-```{r scale, fig.cap='A microscopic scale.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/microscope/MM_scale.jpg")
-```
-
-```{r smear, fig.cap='A human blood smear.', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/microscope/Blood_smear.jpg")
-```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SUo2fHZaZCU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Elodea Leaf Wet Mount
 
@@ -118,15 +60,9 @@ It is dioecious, with male and female flowers on different plants. The flowers h
 knitr::include_graphics("./figures/microscope/elodea_leaf.jpg")
 ```
 
-## How to turn off the microscope
+Now, please watch the [following video](https://youtu.be/UWbGZMO4o_U) and see how it compares to what you have just read:
 
-The tablets and microscopes must be turned off in a specific order:
-
-1.  Turn off microscope using the switch on the lower right side.
-2.  While the microscope is still plugged in, turn off the tablet by holding the power button down for a few seconds. Select power off.
-3.  Motic logo will appear on tablet.
-4.  Wait till charging symbol will appear.
-5.  Leave microscopes kept on the student bench plugged in after turning them off and place the cover over the microscope.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UWbGZMO4o_U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Review Questions
 1. Why do biologists use microscopes?

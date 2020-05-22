@@ -66,9 +66,16 @@ Table: (\#tab:sugar) Test for reducing sugars.
 7	 |2 ml sucrose	     |  2 ml       |               |                     |
 
 
-```{r exp1, fig.cap='Results from experiment 1. Compare to your results!', echo=FALSE, message=FALSE, warning=FALSE}
+(ref:sug) Results from experiment 1. The tubes in the picture correspond from left to right to tubes 1 to 7 in table \@ref(tab:sugar). Please use the results shown in this picture to fill in the two empty colummns in the table.
+
+```{r exp1, fig.cap='(ref:sug)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/chem_aspects/Results_exp_1.jpg")
 ```
+
+Now, please watch the [following video](https://www.youtube.com/J7glsbXAmdU) and see a demonstration of the experiment similar to what you have just read:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J7glsbXAmdU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Test for Starch
 Starch is a polymeric carbohydrate consisting of a large number of glucose units joined by glycosidic bonds. This polysaccharide is produced by most green plants as energy storage. It is the most common carbohydrate in human diets and is contained in large amounts in staple foods like potatoes, wheat, maize (corn), rice, and cassava. Pure starch is a white, tasteless and odorless powder that is insoluble in cold water or alcohol. It consists of two types of molecules the linear and helical amylose and the branched amylopectin.
@@ -103,10 +110,15 @@ Table: (\#tab:starch) Test for starch.
 8       | 2 ml of starch plus 2 ml of amylase and then place the tube in the 37 °C heat block| |   |   |
 9       | Leave empty and follow step 8 above|| |      |
 
+(ref:sta) Results from experiment 1. The tubes in the picture correspond from left to right to tubes 1 to 7 in table \@ref(tab:starch). Please use the results shown in this picture to fill in the two empty colummns in the table.
 
-```{r exp2, fig.cap='Results from experiment 2. Compare to your results!', echo=FALSE, message=FALSE, warning=FALSE}
+```{r exp2, fig.cap='(ref:sta)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/chem_aspects/Results_exp_2.jpg")
 ```
+
+Now, please watch the [following video](https://www.youtube.com/ISf6ClTbg78) and see a demonstration of the experiment similar to what you have just read:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ISf6ClTbg78" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Test for Proteins
 [Proteins](https://en.wikipedia.org/wiki/Protein) are large biomolecules, or macromolecules, consisting of one or more long chains of amino acid residues. Proteins perform a vast array of functions within organisms, including catalyzing metabolic reactions, DNA replication, responding to stimuli, and transporting molecules from one location to another. Proteins differ from one another primarily in their sequence of amino acids, which is dictated by the nucleotide sequence of their genes, and which usually results in protein folding into a specific three-dimensional structure that determines its activity.
@@ -135,10 +147,12 @@ Table: (\#tab:protein) Test for protein.
 6        |2 ml soy              |2 ml      |               |                     |
 7        |2 ml vegetable oil    |2 ml      |               |                     |
 
+(ref:pro) Results from experiment 1. The tubes in the picture correspond from left to right to tubes 1 to 7 in table \@ref(tab:protein). Please use the results shown in this picture to fill in the two empty colummns in the table.
 
-```{r exp3, fig.cap='Results from experiment 3. Compare to your results!', echo=FALSE, message=FALSE, warning=FALSE}
+```{r exp3, fig.cap='(ref:pro)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/chem_aspects/Results_exp_3.jpg")
 ```
+
 
 ## Cleaning up
 1. Empty the contents of all plastic tubes into the labeled waste container (brown bottle) in the chemical fume hood (Figure \@ref(fig:waste)).
@@ -167,6 +181,7 @@ Although the term "lipid" is sometimes used as a synonym for fats, fats are a su
 Empty the contents of the glass tube into the labeled waste container (brown bottle) in the chemical fume hood. Discard the glass tube in the plastic container labeled "broken glass" in the chemical fume hood (Figure \@ref(fig:waste)).
 
 ## Test for organic and inorganic compounds (Demonstration)
+
 ### Experimental procedures
 1.	The instructor will use as Bunsen burner to heat a number of substances. Organic substances will burn, inorganic substances will remain unchanged.
 2.	Record your observation in Table \@ref(tab:organic).
@@ -205,6 +220,9 @@ knitr::include_graphics("./figures/chem_aspects/Strawberry_extract.jpg")
 ```{r dna, fig.cap='Precipitated strawberry DNA sticking to the tip of the glassrod.', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/chem_aspects/Strawberry_DNA.jpg")
 ```
+Now, please watch the [following video](https://www.youtube.com/embed/67KXatgoNKs) and see a demonstration of the experiment similar to what you have just read:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/67KXatgoNKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Cleaning up
 1.  Empty the contents of the plastic tube into the labeled waste container (brown bottle) in the chemical fume hood.

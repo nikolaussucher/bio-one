@@ -7,6 +7,7 @@ knitr::include_graphics("./figures/cell_struc/materials.jpg")
 ```
 
 ## Elodea cells
+
 ### Experimental procedures
 1.	Get a single leaf from the Elodea plant and mount it on a slide, cover it with a drop of water and a cover slip.
 2.	Look at the leaf under the microscope (Figure \@ref(fig:elodea)).
@@ -16,7 +17,13 @@ knitr::include_graphics("./figures/cell_struc/materials.jpg")
 knitr::include_graphics("./figures/cell_struc/elodea.jpg")
 ```
 
+Now, please watch the [following video](https://youtu.be/UWbGZMO4o_U) on how to prepare an Elodea wet mount:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UWbGZMO4o_U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Onion leaf epidermal cells
+
 ### Experimental procedures
 1.  Peel a thin layer of cells from the concave side of a piece of onion as shown in Figure \@ref(fig:onionpeel).
 2.  Put the onion layer onto a new slide. Make sure the onion lays very flat and is not wrinkled or folded on your slide.
@@ -34,7 +41,12 @@ knitr::include_graphics("./figures/cell_struc/onionpeel.jpg")
 knitr::include_graphics("./figures/cell_struc/onion.jpg")
 ```
 
+Now, please watch the [following video](https://youtu.be/6H92NLVMhss) and see how to prepare an onion epidermal slide:
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6H92NLVMhss" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## Carrot root cells
+
 ### Experimental procedures
 1.	Use a razor blade and shave a very thin (almost translucent) slice of carrot onto a slide and prepare a wet mount of it (Figure \@ref(fig:carot)).
 2.	Observe the orange-yellow bodies called chromoplasts, another type of plastid. Chromoplasts are enriched in pigments that give flowers, fruits, and fall leaves their colors, and carrots their orange color.
@@ -73,6 +85,10 @@ The outer and inner surface of our body is formed by epithelial cells.
 ```{r cheek, fig.cap='Human cheek epidermal cells.', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/cell_struc/cheek.jpg")
 ```
+
+Now, please watch the [following video](https://youtu.be/O-7VN8AxZOg) on how to prepare an Elodea wet mount:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O-7VN8AxZOg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Cleaning up
 Dispose of the toothpicks and the slide with the cheek cells in the beakers containing (green looking) disinfectant liquid.

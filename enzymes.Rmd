@@ -17,6 +17,7 @@ The first experiment will establish that our catalase works (positive control) a
 Hydrogen peroxide will not spontaneously degrade at room temperature in the absence of enzyme. When catalase is added to hydrogen peroxide, the reaction will take place and the oxygen produced will lead to the formation of bubbles in the solution. The height of the bubbles above the solution will be our measure of enzyme activity (Figure \@ref(fig:contr)).
 
 ##  Positive and negative controls (Experiment 1)
+
 ### Experimental procedures
 1.	Obtain and label three 15 ml conical plastic reaction tubes.
 2.	Then to **Tube 1**
@@ -44,13 +45,16 @@ Tube # |	Height of bubbles (mm) |
 knitr::include_graphics("./figures/enzymes/ruler.jpg")
 ```
 
+(ref:cat1) Results from experiment 1. The tubes in the picture correspond from left to right to tubes 1 to 3 in table \@ref(tab:control). What conclusions can you draw from the results of this experiment as shown in this figure?
 
 
-```{r contr, fig.cap='Results from experiment 1. Compare with your results!', echo=FALSE, message=FALSE, warning=FALSE}
+
+```{r contr, fig.cap='(ref:cat1)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/enzymes/catalase_contr.jpg")
 ```
 
 ##  Effect of temperature on enzyme activity (Experiment 2)
+
 ### Experimental procedures
 
 1.  Before you begin with the actual experiment, write down in your own words the hypothesis for this experiment:
@@ -77,11 +81,15 @@ Tube # |Height of bubbles (mm)  |
 2      ||
 3      ||
 
-```{r temp, fig.cap='Results from experiment 2. Compare with your results!', echo=FALSE, message=FALSE, warning=FALSE}
+(ref:cat2) Results from experiment 2. The tubes in the picture correspond from left to right to tubes 1 to 3 in table \@ref(tab:temp). What conclusions can you draw from the results of this experiment as shown in this figure?
+
+
+```{r temp, fig.cap='(ref:cat2)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/enzymes/catalase_temp.jpg")
 ```
 
 ##  Effect of concentration on enzyme activity (Experiment 3)
+
 ### Experimental procedures
 
 1.  Before you begin with the actual experiment, write down in your own words the hypothesis for this experiment:
@@ -115,11 +123,15 @@ Tube # |Height of bubbles (mm) |
 2      ||
 3      ||
 
-```{r conc, fig.cap='Results from experiment 3. Compare with your results!', echo=FALSE, message=FALSE, warning=FALSE}
+(ref:cat3) Results from experiment 3. The tubes in the picture correspond from left to right to tubes 1 to 3 in table \@ref(tab:concentration). What conclusions can you draw from the results of this experiment as shown in this figure?
+
+
+```{r conc, fig.cap='(ref:cat3)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/enzymes/catalase_conc.jpg")
 ```
 
 ##  Effect of pH on enzyme activity (Experiment 4)
+
 ### Experimental procedures
 
 1.  Before you begin with the actual experiment, write down in your own words the hypothesis for this experiment:
@@ -155,7 +167,10 @@ Tube # |	Height of bubbles (mm) |
 5        |                       |
 6        |                       |
 
-```{r pH, fig.cap='Results from experiment 4. Compare with your results!', echo=FALSE, message=FALSE, warning=FALSE}
+(ref:cat4) Results from experiment 4. The tubes in the picture correspond from left to right to tubes 1 to 6 in table \@ref(tab:pH). What conclusions can you draw from the results of this experiment as shown in this figure?
+
+
+```{r pH, fig.cap='(ref:cat4)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/enzymes/catalase_ph.jpg")
 ```
 

@@ -123,6 +123,9 @@ Gram staining differentiates bacteria by the chemical and physical properties of
 5.	Add safranin to the slide and incubate for 1 minute. Wash with a gentle stream of water. Gram positive bacteria it will retain crystal violet and stain purple. Gram negative will lose the primary stain and take the secondary stain causing it to appear pink when viewed under a microscope.
 6.	View under the microscope.
 
+Now, please watch the [following video](https://youtu.be/sxa46xKfIOY) demonstrating the Gram staining method:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sxa46xKfIOY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Review Questions
 1. What are bacteria?

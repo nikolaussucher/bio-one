@@ -63,6 +63,11 @@ A selectively permeable membrane is a type of biological or synthetic, polymeric
 knitr::include_graphics("./figures/exchange/Dialysis.jpg")
 ```
 
+Now watch a [time lapse video](https://www.youtube.com/kp9EvMeTMUs) of this experiment:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kp9EvMeTMUs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Brownian motion
 [Brownian motion](https://en.wikipedia.org/wiki/Brownian_motion) is the random motion of particles suspended in a fluid (a liquid or a gas) resulting from their collision with the fast-moving molecules in the fluid. This motion is named after [Robert Brown](https://en.wikipedia.org/wiki/Robert_Brown_(botanist,_born_1773)) (botanist, born 1773). In 1827, while looking through a microscope at particles trapped in cavities inside pollen grains in water, he noted that the particles moved through the water; but he was not able to determine the mechanisms that caused this motion. Atoms and molecules had long been theorized as the constituents of matter, and Albert Einstein published a paper in 1905 that explained in precise detail how the motion that Brown had observed was a result of the pollen being moved by individual water molecules, making one of his first big contributions to science. This explanation of Brownian motion served as convincing evidence that atoms and molecules exist and was further verified experimentally by Jean Perrin in 1908. Perrin was awarded the Nobel Prize in Physics in 1926 "for his work on the discontinuous structure of matter". The direction of the force of atomic bombardment is constantly changing, and at different times the particle is hit more on one side than another, leading to the seemingly random nature of the motion.
 
@@ -74,6 +79,12 @@ knitr::include_graphics("./figures/exchange/Dialysis.jpg")
 4. Add a coverslip on top of the drop of water with the carmine on the slide.
 5. Put the slide under the microscope.
 6. Observe the quivering motion of the particles under high power. A mass movement of particles in any one direction may result if the micro- scope is not quite level, or you are using only one stage clip, or the coverslip is caught under the stage clips. This is not what you are looking for.
+
+
+Now watch a [video](https://www.youtube.com/siqlXuFo4To) of what you would see using the microscope in this experiment:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/siqlXuFo4To" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Osmosis in Animal and Plant Cells
 [Osmosis](https://en.wikipedia.org/wiki/Osmosis) is the spontaneous net movement of solvent molecules through a selectively-permeable membrane into a region of higher solute concentration, in the direction that tends to equalize the solute concentrations on the two sides. A selectively permeable membrane is a membrane that is permeable for some but not other molecules. Osmotic pressure is defined as the external pressure required to be applied so that there is no net movement of solvent across the membrane. Osmotic pressure is a colligative property, meaning that the osmotic pressure depends on the molar concentration of the solute but not on its identity.
@@ -119,6 +130,11 @@ knitr::include_graphics("./figures/exchange/blood_isotonic.jpg")
 knitr::include_graphics("./figures/exchange/blood_hypotonic.jpg")
 ```
 
+Now watch a [video](https://www.youtube.com/A8cI6FkcG4c) of the results of this experiment:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A8cI6FkcG4c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Turgor and Plasmolysis
 Osmotic pressure is the main cause of support in many plants. The osmotic entry of water raises the turgor pressure exerted against the cell wall, until it equals the osmotic pressure, creating a steady state. When a plant cell is placed in a solution that is hypertonic relative to the cytoplasm, water moves out of the cell and the cell shrinks (Figure \@ref(fig:osmosisp)). In doing so, the cell becomes flaccid. In extreme cases, the cell becomes plasmolyzed - the cell membrane disengages with the cell wall due to lack of water pressure on it. When a plant cell is placed in a solution that is hypotonic relative to the cytoplasm, water moves into the cell and the cell swells to become turgid. Osmosis is responsible for the ability of plant roots to draw water from the soil. Plants concentrate solutes in their root cells by active transport, and water enters the roots by osmosis. Osmosis is also responsible for controlling the movement of guard cells.
 
@@ -128,6 +144,10 @@ Osmotic pressure is the main cause of support in many plants. The osmotic entry 
 ```{r osmosisp, fig.cap='(ref:osmosisp)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/exchange/Osmosis_plant.jpg")
 ```
+
+Now watch a [video](https://www.youtube.com/embed/zVvHn6Sj9PQ) of the results of this experiment:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zVvHn6Sj9PQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Experimental procedures
 1. Mount a leaf of Elodea in water on a slide and observe.

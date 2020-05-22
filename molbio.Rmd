@@ -28,6 +28,10 @@ knitr::include_graphics("./figures/molbio/Gel_box.jpg")
 7.  Add the comb into the comb slot.
 8.  Pour the solution onto the gel tray in the gel box.
 
+Now, please watch the [following video](https://youtu.be/vq759wKCCUQ) demontrating how to load an run DNA samples on an agarose gel:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vq759wKCCUQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Setting up the restriction digest reactions
 In this experiment, we will use three [restriction enzymes](https://en.wikipedia.org/wiki/Restriction_enzyme) (EcoRI, Hind III, and Pst I) to cut Lambda DNA.
 

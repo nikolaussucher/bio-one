@@ -20,6 +20,10 @@ The taxonomy of protists is ever changing. Newer classifications attempt to pres
 knitr::include_graphics("./figures/protists/Amoeba_proteus.jpg")
 ```
 
+Here is a [video](https://www.youtube.com/7pR7TNzJ_pA) of a moving amoeba:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7pR7TNzJ_pA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ###	Paramecium caudatum
 [*Paramecium caudatum*](https://en.wikipedia.org/wiki/Paramecium_caudatum) (Figure \@ref(fig:paramecium)) is a unicellular, ciliate eukaryote. They can reach 0.25mm in length and are covered with minute hair-like organelles called cilia. The cilia are used in locomotion and feeding. P. caudatum feed on bacteria and small eukaryotic cells, such as yeast and flagellate algae. In hypotonic conditions (freshwater), the cell absorbs water by osmosis. It regulates osmotic pressure with the help of bladder-like contractile vacuoles, gathering internal water through its star-shaped radial canals and expelling the excess through the plasma membrane. When moving through the water, they follow a spiral path while rotating on the long axis.
 Paramecium have two nuclei (a large macronucleus and a single compact micronucleus). They cannot survive without the macronucleus and cannot reproduce without the micro-nucleus. Like all ciliates, Paramecia reproduce asexually, by binary fission. During reproduction, the macronucleus splits by a type of amitosis, and the micronuclei undergo mitosis. The cell then divides transversally, and each new cell obtains a copy of the micronucleus and the macronucleus.
@@ -29,6 +33,10 @@ Fission may occur as part of the normal vegetative cell cycle. Under certain con
 knitr::include_graphics("./figures/protists/Paramecium_caudatum.jpg")
 ```
 
+Here is a [video](https://www.youtube.com/embed/RyQfvxH425Q) of a moving paramecium. Notice the cilia:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RyQfvxH425Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ###	Euglena
 [*Euglena*](https://en.wikipedia.org/wiki/Euglena) (Figure \@ref(fig:euglena)) is a genus of single-celled flagellate eukaryotes. It is the best known and most widely studied member of the class Euglenoidea, a diverse group containing some 54 genera and at least 800 species. Species of Euglena are found in fresh and salt waters. They are often abundant in quiet inland waters where they may bloom in numbers sufficient to color the surface of ponds and ditches green (E. viridis) or red (E. sanguinea).
 When feeding as a heterotroph, Euglena takes in nutrients by osmotrophy, and can survive without light on a diet of organic matter, such as beef extract, peptone, acetate, ethanol or carbohydrates. When there is sufficient sunlight for it to feed by phototrophy, it uses chloroplasts containing the pigments chlorophyll a and chlorophyll b to produce sugars by photosynthesis. Euglena's chloroplasts are surrounded by three membranes, while those of plants and the green algae (among which earlier taxonomists often placed Euglena) have only two membranes. This fact has been taken as morphological evidence that Euglena's chloroplasts evolved from a eukaryotic green alga. Thus, the intriguing similarities between Euglena and the plants would have arisen not because of kinship but because of a secondary endosymbiosis. Molecular phylogenetic analysis has lent support to this hypothesis, and it is now generally accepted.
@@ -37,12 +45,20 @@ When feeding as a heterotroph, Euglena takes in nutrients by osmotrophy, and can
 knitr::include_graphics("./figures/protists/euglena.jpg")
 ```
 
+Here is a [video](https://www.youtube.com/embed/9nxoSRasq2Q) of moving Euglena. Notice the flagellum:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9nxoSRasq2Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ###	Peranema
 [*Peranema*](https://en.wikipedia.org/wiki/Peranema) (Figure \@ref(fig:peranema)) is a genus of free-living flagellate, with more than 20 accepted species, varying in size between 8 and 200 micrometers. They are found in freshwater lakes, ponds and ditches, and are often abundant at the bottom of stagnant pools rich in decaying organic material. Although they belong to the class Euglenoidea, and are morphologically similar to the green Euglena, Peranema have no chloroplasts, and cannot feed by autotrophy. Instead, they capture live prey, such as yeast, bacteria and other flagellates, consuming them with the help of a rigid feeding apparatus called a "rod-organ." Unlike the green Euglenids, they lack both an eyespot (stigma), and the paraflagellar body (photoreceptor) that is normally coupled with that organelle. However, while Peranema lack a localized photoreceptor, they do possess the light-sensitive protein rhodopsin, and respond to changes in light with a characteristic "curling behavior."
 
 ```{r peranema, fig.cap='Peranema.', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/protists/peranema.jpg")
 ```
+
+Here is a [video](https://www.youtube.com/embed/qkZpGgdc88w) of moving Peranema. Notice the flagellum and the direction of movement:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qkZpGgdc88w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###	Chlamydomonas
 [*Chlamydomonas*](https://en.wikipedia.org/wiki/Chlamydomonas) (Figure \@ref(fig:chlamydomonaslive)) is a genus of green algae consisting of unicellular flagellates, found in stagnant water and on damp soil, in freshwater, seawater, and even in snow as "snow algae". Chlamydomonas is used as a model organism for molecular biology, especially studies of flagellar motility and chloroplast dynamics, biogeneses, and genetics. One of the many striking features of Chlamydomonas is that it contains ion channels, (channelrhodopsins), that are directly activated by light. These proteins are used in optogenetics.
@@ -51,8 +67,16 @@ knitr::include_graphics("./figures/protists/peranema.jpg")
 knitr::include_graphics("./figures/protists/chlamydomonas_live.jpg")
 ```
 
+Here is a [video](https://www.youtube.com/embed/EMNFZnDt75c) of Chlamydomonas. Notice the flagellum:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EMNFZnDt75c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ###	Gymnodinium
 [*Gymnodinium*](https://en.wikipedia.org/wiki/Gymnodinium) is a genus of [dinoflagellates](https://en.wikipedia.org/wiki/Dinoflagellate) It is one of the few naked dinoflagellates, or species lacking armor (cellulosic plates). The dinoflagellates (Greek dinos "whirling" and Latin flagellum "whip, scourge") are a large group of flagellate eukaryotes that constitute the phylum Dinoflagellata. Most are marine plankton, but they are common in freshwater habitats, as well. Their populations are distributed depending on temperature, salinity, or depth. Many dinoflagellates are known to be photosynthetic, but a large fraction of these are in fact mixotrophic, combining photosynthesis with ingestion of prey (phagotrophy). In terms of number of species, dinoflagellates form one of the largest groups of marine eukaryotes, although this group is substantially smaller than the diatoms. Some species are endosymbionts of marine animals and play an important part in the biology of coral reefs. Other dinoflagellates are unpigmented predators on other protozoa, and a few forms are parasitic.
+
+Here is a [video](https://www.youtube.com/embed/48Kie_g3-zI) of moving Gymnodinium:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/48Kie_g3-zI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###	Pandorina
 [*Pandorina*](https://en.wikipedia.org/wiki/Pandorina) (Figure \@ref(fig:pandorina)) is a genus of green algae composed of 8, 16, or sometimes 32 cells, held together at their bases to form a sack globular colony surrounded by mucilage. The cells are ovoid or slightly narrowed at one end to appear keystone- or pear-shaped. Each cell has two flagella with two contractile vacuoles at their base, an eyespot, and a large cup-shaped chloroplast with at least one pyrenoid. The colonies co-ordinate their flagellar movement to create a rolling, swimming motion. Pandorina shows the beginnings of the colony polarity and differentiation seen in Volvox since the anterior cells have larger eyespots. Asexual reproduction is by simultaneous division of all cells of the colony to form autocolonies that are liberated by a gelatinization of the colonial envelope. Sexual reproduction occurs by division of each cell of the colony into 16-32 zoogametes. Zoogametes show indications of heterogamy, a slight difference in the size and motility of the pairs that fuse to form the smooth walled zygote.
@@ -60,6 +84,10 @@ knitr::include_graphics("./figures/protists/chlamydomonas_live.jpg")
 ```{r pandorina, fig.cap='Pandorina.', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/protists/Pandorina.jpg")
 ```
+
+Here is a [video](https://www.youtube.com/embed/1Fx1xVKugOo) of moving Pandorina:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1Fx1xVKugOo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###	Volvox
 [*Volvox*](https://en.wikipedia.org/wiki/Volvox) (Figure \@ref(fig:volvox)) is a genus of freshwater algae found in ponds and ditches, even in shallow puddles. It forms spherical colonies of up to 50,000 cells that were first reported by Antonie van Leeuwenhoek in 1700. Volvox diverged from unicellular ancestors approximately 200 million years ago. Each mature Volvox colony is composed of up to thousands of cells from two differentiated cell types: numerous flagellate somatic cells and a smaller number of germ cells lacking in soma that are embedded in the surface of a hollow sphere or coenobium containing an extracellular matrix made of glycoproteins. Adult somatic cells comprise a single layer with the flagella facing outward. The cells swim in a coordinated fashion, with distinct anterior and posterior poles. The cells have anterior eyespots that enable the colony to swim towards light. An asexual colony includes both somatic (vegetative) cells, which do not reproduce, and large, non-motile gonidia in the interior, which produce new colonies through repeated division. In sexual reproduction two types of gametes are produced. Volvox species can be monoecious or dioecious. Male colonies release numerous sperm packets, while in female colonies single cells enlarge to become oogametes, or eggs.
@@ -69,12 +97,20 @@ Volvox is facultatively sexual and can reproduce both sexually and asexually. Th
 knitr::include_graphics("./figures/protists/Volvox.jpg")
 ```
 
+Here is a [video](https://www.youtube.com/embed/v6D9OUoD7E4) of Volvox:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v6D9OUoD7E4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ###	Oedogonium
 [*Oedogonium*](https://en.wikipedia.org/wiki/Oedogonium) (Figure \@ref(fig:oedogonium)) is a genus of filamentous green algae, with unbranched filaments that are one cell thick. Oedogonium can be free-floating, though it is usually attached to aquatic plants by a holdfast. It appears greenish and inhabits calm, fresh water. Oedogonium can reproduce asexually by fragmentation of the filaments, through some other types of non-motile spores, and also through zoospores, which have many flagella. These develop in a zoosporangium cell, one zoospore per zoosporangium. After settling and losing its flagella, a zoospore grows into a filament. Oedogonium can also reproduce sexually. Its sexual life cycle is haplontic, i.e., the zygote undergoes meiosis. Antheridia produce and release sperm, and oogonia produce and release an egg,. The egg and sperm then fuse and form a zygote which is diploid (2n). The zygote then undergoes meiosis to produce the filamentous green alga which is haploid (1n).
 
 ```{r oedogonium, fig.cap='Oedogonium.', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/protists/oedogonium.jpg")
 ```
+
+Here is a [video](https://www.youtube.com/embed/mz_aj5QUqLA) of Oedogonium and the release of a zoospore:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mz_aj5QUqLA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###	Spirogyra
 [*Spirogyra*](https://en.wikipedia.org/wiki/Spirogyra) (Figure \@ref(fig:spiro); common names include water silk, mermaid's tresses, and blanket weed) is a genus of filamentous chlorophyte green algae of the order Zygnematales, named for the helical or spiral arrangement of the chloroplasts that is diagnostic of the genus. It is commonly found in freshwater areas, and there are more than 400 species of Spirogyra in the world. Spirogyra measures approximately 10 to 100 μm in width and may grow to several centimeters in length. Spirogyra can reproduce both sexually and asexually. In vegetative reproduction, fragmentation takes place, and Spirogyra simply undergoes the intercalary mitosis to form new filaments. Sexual Reproduction is of two types:
@@ -85,6 +121,10 @@ The essential difference is that scalariform conjugation occurs between two fila
 ```{r spiro, fig.cap='Spirogyra.', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/protists/Spirogyra.jpg")
 ```
+
+Here is a [video](https://www.youtube.com/embed/A8xrerjRJHg) of Spirogyra:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A8xrerjRJHg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##  View Prepared Slides
 
