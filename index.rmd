@@ -16,7 +16,7 @@ lot: yes
 
 # Welcome {-}
 
-This is the __Laboratory Manual__ for the Biology I course (SCI103) at RCC.
+This is the __Laboratory Manual__ for the Biology I online course (SCI103) at RCC.
 
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
