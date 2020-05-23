@@ -17,7 +17,7 @@ bookdown::gitbook:
       weibo:              no
       instapper:          no
       all:                null
-    download:             ["pdf", "epub"]
+    download:             []
 
 #bookdown::html_chapters:
 #  css:                    [css/style.css, css/toc.css]
