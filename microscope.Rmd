@@ -62,7 +62,7 @@ knitr::include_graphics("./figures/microscope/elodea_leaf.jpg")
 
 Now, please watch the [following video](https://youtu.be/UWbGZMO4o_U) and see how it compares to what you have just read:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UWbGZMO4o_U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UWbGZMO4o_U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
 
 ## Review Questions
 1. Why do biologists use microscopes?
