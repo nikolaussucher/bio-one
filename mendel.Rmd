@@ -138,12 +138,12 @@ Blood Type        |         |         |         |         |
 4.  What is the genotype of an organism?
 5.  What is a trait?
 6.  What is the phenotype of an organism?
-7.  What is the genotype of the F1 generation of the monohybrid cross?
-8.  What is the phenotype of the F1 generation monohybrid cross?
-9.  What are the possible maternal and paternal genotypes of the F1 gametes monohybrid cross?
-10. What is the genotype of the parents of the dihybrid cross?
-11. What are the phenotypes of the parents of the dihybrid cross?
-12. What are the possible genotypes of the parent gametes of the dihybrid cross?
-13. What is the genotype of the F1 generation of the dihybrid cross?
-14. What is the phenotype of the F1 generation dihybrid cross?
-15. What are the possible maternal and paternal genotypes of the F1 gametes dihybrid cross?
+7.  What is the genotype of the F1 generation of the corn monohybrid cross described above?
+8.  What is the phenotype of the F1 generation of the corn monohybrid cross described above?
+9.  What are the possible maternal and paternal genotypes of the F1 gametes of the corn monohybrid cross described above?
+10. What is the genotype of the parents of the corn dihybrid cross described above?
+11. What are the phenotypes of the parents of the corn dihybrid cross described above?
+12. What are the possible genotypes of the parent gametes of the corn dihybrid cross described above?
+13. What is the genotype of the F1 generation of the corn dihybrid cross described above?
+14. What is the phenotype of the F1 generation of the corn dihybrid cross described above?
+15. What are the possible maternal and paternal genotypes of the F1 gametes of the corn dihybrid cross described above?
