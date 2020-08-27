@@ -7,7 +7,7 @@ description: "This laboratory manual will accompany you during your laboratory f
 #url: "https://myrcc.rcc.mass.edu/ICS/104_lab_manual/index.html"
 github-repo: nikolaussucher/bio-one-all-online
 twitter-handle: NikolausSucher
-cover-image: cover.png
+cover-image: bio_one_labmanual_cover.jpg
 site: bookdown::bookdown_site
 documentclass: book
 lof: yes
@@ -20,7 +20,7 @@ This is the __Laboratory Manual__ for the Biology I online course (SCI103) at RC
 
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("cover.png")
+knitr::include_graphics("bio_one_labmanual_cover.jpg")
 ```
 
 
