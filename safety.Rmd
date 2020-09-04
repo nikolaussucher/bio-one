@@ -1,9 +1,11 @@
 # Lab Safety
 The laboratory classes are hands-on. Some classes require the use of hazardous chemicals and materials. Safety in the classroom is the #1 priority for students and faculty. To ensure a safe science laboratory, a list of rules must be followed at all times.
 
-Please watch the [RCC safety video](https//youtu.be/NxcsyTv7stQ)
+Please watch the [RCC safety video](https://youtu.be/Qb0MmQWh-vk)
 
-<iframe src="https://www.youtube.com/embed/NxcsyTv7stQ" frameborder="0" width="500" height="315"></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qb0MmQWh-vk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ```{block2, type='rmdimportant'}
 **Prior to your participation in the science lab course, you must read this safety document and sign and return the acknowledgment and agreement page.**
